@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Remove Background
+Comment=For Falkon Glass
+Icon=preferences-web-browser-adblock
+Type=Service
+
+X-Falkon-Author=Critical Soft
+X-Falkon-Version=1.7.0
+X-Falkon-Type=Extension/Qml
+X-Falkon-Settings=true

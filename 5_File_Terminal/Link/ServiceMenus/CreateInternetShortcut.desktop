@@ -1,0 +1,16 @@
+#v1.2
+#contact: piotr4@gmail.com
+#GPLv3
+
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=inode/directory;
+Actions=InternetShortcut
+InitialPreference=8
+
+[Desktop Action InternetShortcut]
+Name=Create internet shortcut
+Icon=applications-internet
+Exec=bash -c 'type yad; if [ $? -eq 0 ]; then directory_path="%u"; values=$(yad --center --title="Creating Internet Shortcut" --width 400 --form --borders=10  --align=center --field="Filename:" "IMDB.html" --field="URL:" "https://" --focus-field=2 --window-icon=applications-internet); if [ $? -eq 0 ]; then readarray -d "|" -t arrValues <<< "$values"; filename=$(echo "${arrValues[0]}"); url=$(echo "${arrValues[1]}"); urlregex=$(echo "(https?|ftp|file)://[-A-Za-z0-9\\+&@#/%?=~_|!:,.;]*[-A-Za-z0-9\\+&@#/%=~_|]"); if echo "$url" | grep -q -E "$urlregex"; then fileregex=$(echo "^[0-9a-zA-Z ._-]+$"); if echo "$filename" | grep -q -E "$fileregex"; then path=$(echo "$directory_path/$filename"); if [ ! -f "$path" ]; then  echo -n "<html><body><script type="text/javascript">window.location.href = \\"" >> "$path";  echo -n "$url" >> "$path";  echo -n "\\";</script></body></html>" >> "$path";  else yad --center --borders=10 --window-icon=dialog-error --image=dialog-error --text="File already exists." --title="Error" --button=OK:1; fi else yad --center --borders=10 --window-icon=dialog-error --image=dialog-error --text="Invalid filename." --title="Error" --button=OK:1; fi else yad --center --borders=10 --window-icon=dialog-error --image=dialog-error --text="Invalid URL." --title="Error" --button=OK:1; fi fi else kdialog --title "yad not installed" --error "'yad' package is required. Please install yad in your package manager / console."; fi;'
+#konsole --hold -e 

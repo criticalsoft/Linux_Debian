@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+  <kcfgfile name="" />
+  <group name="">
+    <!--<entry name="grid_snap_sw" type="bool">
+      <label>Grid</label>
+      <default>true</default>
+    </entry>-->
+    
+    <entry name="grid_size_h_1" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_1" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_2" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_2" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_3" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_3" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_4" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_4" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_5" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_5" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_6" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_6" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_7" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_7" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_8" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_8" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_9" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_9" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <entry name="grid_size_h_10" type="int">
+      <label>Horizontal</label>
+      <default>6</default>
+    </entry>
+
+    <entry name="grid_size_v_10" type="int">
+      <label>Vertical</label>
+      <default>4</default>
+    </entry>
+
+    <!--<entry name="grid_center_sw" type="bool">
+      <label>Center Based</label>
+      <default>false</default>
+    </entry>-->
+
+    <!--<entry name="snap_size" type="int">
+      <label>Snap Size</label>
+      <default>40</default>
+    </entry>-->
+
+    <!-- <entry name="switch_desktop_fix" type="bool">
+      <label>Force Mouse</label>
+      <default>false</default>
+    </entry> -->
+
+
+
+
+    <!-- <entry name="tiling_sw" type="bool">
+      <label>Tiling</label>
+      <default>false</default>
+    </entry> -->
+
+    <!--<entry name="index_z_fix" type="bool">
+      <label>Auto Raise</label>
+      <default>false</default>
+    </entry>-->
+
+    <!--<entry name="index_z_delay" type="int">
+      <label>Delay</label>
+      <default>350</default>
+    </entry>-->
+
+    
+
+    
+    <!--<entry name="slot_sw" type="bool">
+      <label>Slot</label>
+      <default>false</default>
+    </entry>-->
+    
+    <!--<entry name="slot_animation_fix" type="bool">
+      <label>Animation</label>
+      <default>false</default>
+    </entry>-->
+  </group>
+</kcfg>

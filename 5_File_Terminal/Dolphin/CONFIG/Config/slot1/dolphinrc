@@ -1,0 +1,197 @@
+DisplayPort-0 Height 1440=737
+DisplayPort-0 Width 3440=1376
+DisplayPort-0 XPosition=223
+DisplayPort-0 YPosition=539
+Height 1080=1015
+Height 1440=846
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAgAAAAAAAACuAAADJPwCAAAAAfwAAAAqAAADJAAAAIoBAAAt+gAAAAABAAAAAvsAAAAUAHAAbABhAGMAZQBzAEQAbwBjAGsBAAAAAP////8AAABaAP////sAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawEAAAAA/////wAAAFoA////AAAAAQAAAOUAAAM4/AIAAAAB/AAAACwAAAM4AAAAAAD////6/////wEAAAAC+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAA4oAAADlAAAAAgD////7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAIA////AAAEXAAAAyQAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+Width 1920=956
+Width 3440=1294
+
+[$Version]
+update_info=dolphin_detailsmodesettings.upd:rename-leading-padding,dolphin_detailsmodesettings.upd:move-content-display
+
+[AdditionalInfoDialog]
+Height 1080=308
+Width 1920=364
+
+[ContextMenu]
+ShowCopyMoveMenu=true
+
+[Desktop Entry]
+DefaultProfile=
+
+[DetailsMode]
+PreviewSize=16
+
+[DownloadDialog Settings]
+Height 1440=510
+Width 3440=700
+
+[Favorite Profiles]
+Favorites=
+
+[FileDialogSize]
+DP-3 Height 3440x1440 DP-3=789
+DP-3 Width 3440x1440 DP-3=1433
+DisplayPort-0 Height 1440=789
+DisplayPort-0 Width 3440=1433
+DisplayPort-1 Height 1440=789
+DisplayPort-1 Height 3440x1440=789
+DisplayPort-1 Width 3440=1433
+DisplayPort-1 Width 3440x1440=1433
+DisplayPort-2 DisplayPort-3 Height 3440x1440 DisplayPort-2=789
+DisplayPort-2 DisplayPort-3 Width 3440x1440 DisplayPort-2=1433
+DisplayPort-2 Height 3440x1440 DisplayPort-2=789
+DisplayPort-2 Width 3440x1440 DisplayPort-2=1433
+DisplayPort-3 Height 3440x1440=789
+DisplayPort-3 Width 3440x1440=1433
+Height 1440=789
+Width 3440=1433
+
+[General]
+AutoExpandFolders=true
+BrowseThroughArchives=true
+ConfirmClosingMultipleTabs=false
+FilterBar=true
+HomeUrl=/home/live/Desktop/
+RememberOpenedTabs=false
+ShowCopyMoveMenu=true
+ShowFullPath=true
+ShowToolTips=true
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2018,11,30,17,37,24
+
+[IconsMode]
+IconSize=112
+PreviewSize=96
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+listViewIconSize=100
+
+[KPropertiesDialog]
+DP-3 Height 3440x1440 DP-3=611
+DP-3 Width 3440x1440 DP-3=570
+DisplayPort-0 Height 1440=655
+DisplayPort-0 Width 3440=631
+DisplayPort-1 Height 3440x1440=706
+DisplayPort-1 Width 3440x1440=747
+DisplayPort-2 DisplayPort-3 Height 1440=611
+DisplayPort-2 DisplayPort-3 Height 3440x1440 DisplayPort-2=685
+DisplayPort-2 DisplayPort-3 Width 3440=536
+DisplayPort-2 DisplayPort-3 Width 3440x1440 DisplayPort-2=631
+DisplayPort-2 Height 1440=520
+DisplayPort-2 Height 3440x1440 DisplayPort-2=759
+DisplayPort-2 Width 3440=549
+DisplayPort-2 Width 3440x1440 DisplayPort-2=631
+DisplayPort-3 Height 3440x1440=784
+DisplayPort-3 Width 3440x1440=782
+Height 1080=595
+Height 1440=549
+Height 1824=857
+Height 900=460
+Width 1600=460
+Width 1920=526
+Width 2736=940
+Width 3440=480
+eDP-1 Height 1824x1216 eDP-1=637
+eDP-1 Height 2736x1824 eDP-1=759
+eDP-1 Width 1824x1216 eDP-1=444
+eDP-1 Width 2736x1824 eDP-1=631
+
+[MainWindow]
+DisplayPort-0 Height 1440=1329
+DisplayPort-0 Width 3440=1138
+DisplayPort-0 XPosition=5
+DisplayPort-0 YPosition=67
+DisplayPort-1 Height 1440=989
+DisplayPort-1 Height 3440x1440=1329
+DisplayPort-1 Width 3440=1138
+DisplayPort-1 Width 3440x1440=1712
+DisplayPort-1 XPosition=1149
+DisplayPort-1 XPosition 3440x1440=1212
+DisplayPort-1 YPosition=407
+DisplayPort-1 YPosition 3440x1440=66
+DisplayPort-2 DisplayPort-3 Height 1080=969
+DisplayPort-2 DisplayPort-3 Height 1440=1063
+DisplayPort-2 DisplayPort-3 Width 1920=1672
+DisplayPort-2 DisplayPort-3 Width 3440=1754
+DisplayPort-2 DisplayPort-3 XPosition=4
+DisplayPort-2 DisplayPort-3 YPosition=333
+DisplayPort-2 Height 1440=649
+DisplayPort-2 Width 3440=1711
+DisplayPort-2 XPosition=4
+DisplayPort-2 YPosition=747
+DisplayPort-3 Height 3440x1440=649
+DisplayPort-3 Width 3440x1440=1140
+DisplayPort-3 XPosition 3440x1440=1148
+DisplayPort-3 YPosition 3440x1440=747
+Height 1080=969
+Height 1216=1081
+Height 1440=1213
+Height 1824=1269
+Height 900=871
+Height 912=613
+Height 975=480
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+Width 1368=746
+Width 1600=956
+Width 1824=979
+Width 1920=1352
+Width 2560=1380
+Width 2736=1151
+Width 3440=1352
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Notification Messages]
+ConfirmHide=true
+ShowVcsRestartInformation=false
+
+[Open-with settings]
+CompletionMode=1
+History=player,cool,open c,open cubic,open cub,open cu,qt ,code,gwenview,open,kate,tex,text,kaff,virtu
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,blenderthumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mobithumbnail,opendocumentthumbnail,gsthumbnail,rawthumbnail,svgthumbnail,textthumbnail,ffmpegthumbs,webarchivethumbnail
+
+[SettingsDialog]
+DisplayPort-0 Height 1440=969
+DisplayPort-0 Width 3440=944
+DisplayPort-1 Height 3440x1440=663
+DisplayPort-1 Width 3440x1440=868
+Height 1080=665
+Height 1440=681
+Height 1824=998
+Width 1920=649
+Width 2736=1317
+Width 3440=802
+
+[Shortcut Schemes]
+Current Scheme=Default
+
+[Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[VersionControl]
+enabledPlugins=Git
+
+[ViewPropertiesDialog]
+DisplayPort-0 Height 1440=369
+DisplayPort-0 Width 3440=441
+Height 1080=774
+Height 1440=774
+Width 1920=438
+Width 3440=438
+
+[kuick-copy]
+Paths[$e]=mtp:/MOBILE/Card/Movie,$HOME/Desktop/,mtp:/Galaxy S9/Card/Movies
+
+[kuick-move]
+Paths[$e]=/media/me/VRX/M Group,/media/me/VRX/Teacher Group,/media/me/VRX/Student Group,/media/me/VRX/Beauty Single,/media/me/VRX/CosPlay Single,/media/me/VRX/Sexy Single,/media/me/VRX/Cotton Single,/media/me/VRX/Tight Group,/media/me/VRX/Beauty Group,/media/me/VRX/Stocking Group

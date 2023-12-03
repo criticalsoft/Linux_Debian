@@ -1,0 +1,493 @@
+[Action_0]
+Automatic=true
+Description=
+Number of commands=0
+Regexp=
+
+[Action_1]
+Automatic=true
+Description=
+Number of commands=1
+Regexp=
+
+[Action_1/Command_0]
+Commandline[$e]=paste
+Description=Command Description
+Enabled=true
+Icon=
+Output=0
+
+[ActionsWidget]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAnwAAAACAQAAAQAAAAAAAAAAAAAAAGT/////AAAAgQAAAAAAAAACAAAA+gAAAAEAAAAAAAABggAAAAEAAAAAAAAD6AAAAABi
+
+[ConfigDialog]
+DisplayPort-1 Height 3440x1440=651
+DisplayPort-1 Width 3440x1440=826
+DisplayPort-2 Height 1440=651
+DisplayPort-2 Width 3440=826
+Height 1080=600
+Height 1440=957
+Width 1920=696
+Width 3440=1055
+
+[Containments][1][General]
+AppletOrder=2;3;4;5;6;7;8;46;50
+
+[Containments][205][General]
+ToolBoxButtonState=left
+ToolBoxButtonY=132
+previewPlugins=audiothumbnail,comicbookthumbnail,djvuthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,karbon_karbon1x_thumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,calligra_odg_thumbnail,svgthumbnail,textthumbnail,karbon_wmf_thumbnail,karbon_wpg_thumbnail,karbon_xfig_thumbnail
+sortMode=-1
+toolTips=true
+url=activities:/current/
+
+[Containments][206][General]
+ToolBoxButtonState=left
+ToolBoxButtonY=125
+previewPlugins=audiothumbnail,comicbookthumbnail,djvuthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,karbon_karbon1x_thumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,calligra_odg_thumbnail,svgthumbnail,textthumbnail,karbon_wmf_thumbnail,karbon_wpg_thumbnail,karbon_xfig_thumbnail
+sortMode=-1
+toolTips=true
+url=activities:/current/
+
+[Containments][207][General]
+previewPlugins=audiothumbnail,comicbookthumbnail,djvuthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,karbon_karbon1x_thumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,mltpreview,calligra_odg_thumbnail,svgthumbnail,textthumbnail,karbon_wmf_thumbnail,karbon_wpg_thumbnail,karbon_xfig_thumbnail
+sortMode=-1
+toolTips=true
+url=activities:/current/
+
+[Containments][219][General]
+ToolBoxButtonState=top
+ToolBoxButtonX=1656
+ToolBoxButtonY=51
+previewPlugins=comicbookthumbnail,djvuthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,karbon_karbon1x_thumbnail,kraorathumbnail,sheets_xlsx_thumbnail,sheets_excel_thumbnail,windowsexethumbnail,windowsimagethumbnail,words_docx_thumbnail,words_msword_thumbnail,mltpreview,opendocumentthumbnail,calligra_odg_thumbnail,sheets_ods_thumbnail,words_odt_thumbnail,words_rtf_thumbnail,svgthumbnail,textthumbnail,karbon_wmf_thumbnail,karbon_xfig_thumbnail
+sortMode=2
+toolTips=true
+url=file:///home/live/Desktop
+
+[Containments][254][General]
+ToolBoxButtonState=top
+ToolBoxButtonX=1656
+ToolBoxButtonY=51
+previewPlugins=comicbookthumbnail,djvuthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,karbon_karbon1x_thumbnail,kraorathumbnail,sheets_xlsx_thumbnail,sheets_excel_thumbnail,windowsexethumbnail,windowsimagethumbnail,words_docx_thumbnail,words_msword_thumbnail,mltpreview,opendocumentthumbnail,calligra_odg_thumbnail,sheets_ods_thumbnail,words_odt_thumbnail,words_rtf_thumbnail,svgthumbnail,textthumbnail,karbon_wmf_thumbnail,karbon_xfig_thumbnail
+sortMode=2
+toolTips=true
+url=file:///home/live/Desktop
+
+[Containments][264][General]
+AppletOrder=265;266;267;268;270
+
+[Containments][269][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.discovernotifier,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.discovernotifier,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+
+[Containments][386][General]
+positions=7,15,desktop:/S2_KS Remake,1,13,desktop:/Creative Cloud‎,5,12,desktop:/S2_SNS Depoly,1,14,desktop:/Office,5,13,desktop:/Windows,5,14,desktop:/Source_SITE,6,4,desktop:/Source_EMS,6,2,desktop:/Source_RPC,6,3,desktop:/S1_YT Collection,0,14,desktop:/S-_IB Risk,2,12,desktop:/S3_CF Upgrade,2,13,desktop:/S1_TB Retail,0,13,desktop:/Translate,6,9,desktop:/Image_Asset,6,6,desktop:/Image_Design,6,7,desktop:/Multiboot USB drive - ArchWiki.URL,3,2,desktop:/Visual_Studio,4,14,desktop:/S3_PC Retail & Repair,2,14,desktop:/FireFox,4,12,desktop:/FORZEN,4,13,desktop:/SEO,6,10,desktop:/Account.xlsx,6,11
+sortMode=-1
+
+[Containments][387][General]
+positions=7,15,desktop:/S2_KS Remake,1,13,desktop:/Creative Cloud‎,5,12,desktop:/S2_SNS Depoly,1,14,desktop:/Office,5,13,desktop:/Windows,5,14,desktop:/Source_SITE,6,4,desktop:/Source_EMS,6,2,desktop:/Source_RPC,6,3,desktop:/S1_YT Collection,0,14,desktop:/S-_IB Risk,2,12,desktop:/S3_CF Upgrade,2,13,desktop:/S1_TB Retail,0,13,desktop:/Translate,6,9,desktop:/Image_Asset,6,6,desktop:/Image_Design,6,7,desktop:/Multiboot USB drive - ArchWiki.URL,3,2,desktop:/Visual_Studio,4,14,desktop:/S3_PC Retail & Repair,2,14,desktop:/FireFox,4,12,desktop:/FORZEN,4,13,desktop:/SEO,6,10,desktop:/Account.xlsx,6,11
+sortMode=-1
+
+[Containments][51][General]
+AppletOrder=52;53;54;55;56;58
+
+[Containments][57][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.discovernotifier,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.discovernotifier,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+
+[Containments][7][General]
+extraItems=org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.discovernotifier,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.plasma.clipboard
+knownItems=org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.discovernotifier,org.kde.plasma.networkmanagement,org.kde.plasma.battery,org.kde.plasma.clipboard
+
+[Containments][70][General]
+AppletOrder=71
+
+[Containments][72][General]
+AppletOrder=73;74;75;76;78
+
+[Containments][77][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.discovernotifier,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.discovernotifier,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.vault,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth
+
+[Containments][8][General]
+extraItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.discovernotifier,org.kde.plasma.vault
+knownItems=org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.volume,org.kde.plasma.notifications,org.kde.plasma.printmanager,org.kde.kdeconnect,org.kde.plasma.networkmanagement,org.kde.plasma.bluetooth,org.kde.discovernotifier,org.kde.plasma.vault
+
+[DownloadDialog Settings]
+Height 1080=919
+Height 1440=851
+Width 1920=754
+Width 3440=732
+
+[EditActionDialog]
+ColumnState=AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXEAAAADAAEAAQAAAAAAAAAAAAAAAGT/////AAAAAQAAAAAAAAADAAAArQAAAAEAAAAAAAAAYgAAAAEAAAAAAAAAYgAAAAEAAAAAAAAD6AAAAABi
+Height 1080=505
+Width 1920=396
+
+[FileDialogSize]
+2 screens: Height=1000
+2 screens: Width=1314
+DisplayPort-0 Height 1440=1096
+DisplayPort-0 Width 3440=1916
+DisplayPort-1 Height 3440x1440=1181
+DisplayPort-1 Width 3440x1440=2064
+DisplayPort-2 DisplayPort-3 Height 1080=1000
+DisplayPort-2 DisplayPort-3 Height 1440=1096
+DisplayPort-2 DisplayPort-3 Height 1920x1080 DisplayPort-3=1000
+DisplayPort-2 DisplayPort-3 Height 3440x1440 DisplayPort-2=1096
+DisplayPort-2 DisplayPort-3 Width 1920=1916
+DisplayPort-2 DisplayPort-3 Width 1920x1080 DisplayPort-3=1916
+DisplayPort-2 DisplayPort-3 Width 3440=1916
+DisplayPort-2 DisplayPort-3 Width 3440x1440 DisplayPort-2=1916
+DisplayPort-2 Height 1440=1096
+DisplayPort-2 Width 3440=1916
+DisplayPort-3 DisplayPort-4 Height 1920x1080=856
+DisplayPort-3 DisplayPort-4 Height 2236x936=856
+DisplayPort-3 DisplayPort-4 Width 1920x1080=1357
+DisplayPort-3 DisplayPort-4 Width 2236x936=1357
+DisplayPort-3 Height 3440x1440=1096
+DisplayPort-3 Width 3440x1440=1916
+DisplayPort-4 DisplayPort-6 Height 1920x1080=856
+DisplayPort-4 DisplayPort-6 Height 2236x936=856
+DisplayPort-4 DisplayPort-6 Width 1920x1080=1357
+DisplayPort-4 DisplayPort-6 Width 2236x936=1357
+DisplayPort-6 Height 1440=1096
+DisplayPort-6 Width 3440=1916
+Height 1080=576
+Height 1440=1096
+Height 900=576
+Width 1600=1120
+Width 1920=1120
+Width 3440=1916
+eDP-1 Height 2736x1824 eDP-1=976
+eDP-1 Width 2736x1824 eDP-1=1709
+
+[General]
+Number of Actions=0
+
+[InteractiveConsole]
+Geometry=\x01\xd9\xd0\xcb\x00\x03\x00\x00\x00\x00\x02\x93\x00\x00\x00\xd5\x00\x00\x06.\x00\x00\x05w\x00\x00\x02\x93\x00\x00\x00\xd5\x00\x00\x06.\x00\x00\x05w\x00\x00\x00\x00\x00\x00\x00\x00\rp\x00\x00\x02\x93\x00\x00\x00\xd5\x00\x00\x06.\x00\x00\x05w
+SplitterState=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x99\x00\x00\x03\xf4\x01\xff\xff\xff\xff\x01\x00\x00\x00\x02\x00
+
+[KFileDialog Settings]
+Recent Files[$e]=93c9e117293bfabddf81c350ad1bcae0.png,file:$HOME/Wallpaper/1920_1080.xcf,file:$HOME/Wallpaper/3840_2160.xcf,file:$HOME/Wallpaper/3440_1440.xcf,file:$HOME/Wallpaper/3440_1440.png,file:$HOME/Wallpaper/3840_2160.png
+Recent URLs[$e]=file:$HOME/,trash:/,file:$HOME/Documents/,file:$HOME/Desktop/,file:$HOME/Wallpaper/,file:$HOME/Pictures/,file:///media/me/DATA/System/Linux_Debian/3_WorkFlow/KDE_Plasma/CONFIG/
+detailViewIconSize=16
+iconViewIconSize=128
+listViewIconSize=100
+
+[KPropertiesDialog]
+DisplayPort-3 Height 3440x1440=597
+DisplayPort-3 Width 3440x1440=564
+Height 1080=507
+Height 1440=549
+Height 900=507
+Width 1600=495
+Width 1920=460
+Width 3440=358
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO-8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Vim Dark
+Font=Noto Mono,14,-1,5,50,0,0,0,0,0
+Schema=Normal
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=false
+Line Numbers=true
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[Notification Messages]
+klipperClearHistoryAskAgain=false
+really_clear_history=true
+
+[Open-with settings]
+CompletionMode=1
+History=dol,open,kate,chro,firef,fire,chr,firefox,firefo,fir,kon,shot,obs
+
+[PlasmaRunnerManager]
+LaunchCounts=4 services_applications:chromium.desktop,1 services_applications:kcm_fonts.desktop,3 services_gparted.desktop,1 services_org.kde.konsole.desktop,1 services_applications:org.kde.falkon.desktop,1 services_applications:khotkeys.desktop,3 services_xfce4-terminal.desktop,2 services_powerdevilglobalconfig.desktop,1 services_keys.desktop,1 services_kcm_kscreen.desktop,1 services_kwincompositing.desktop,11 services_applications:org.kde.spectacle.desktop,2 services_applications:virtualbox.desktop,1 services_applications:grsync.desktop,1 services_powerdevilactivitiesconfig.desktop,2 services_systemsettings.desktop,5 PowerDevil_Sleep,3 services_org.gnome.Calculator.desktop,1 services_grsync.desktop,1 services_org.kde.kate.desktop,4 services_applications:firefox-esr.desktop,1 services_firefox-esr.desktop,1 services_applications:cool-retro-term.desktop,1 services_simplescreenrecorder.desktop,3 services_compiz-replace.desktop,5 services_applications:firefox.desktop,4 services_applications:kcm_keys.desktop,3 services_org.kde.dolphin.desktop,1 services_kcm_desktoptheme.desktop,2 services_powerdevilprofilesconfig.desktop,1 services_applications:kcm_icons.desktop,1 services_org.gnome.DiskUtility.desktop
+pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 1][Defaults]
+thickness=45
+
+[PlasmaViews][Panel 108][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 143][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 143][Horizontal1920]
+offset=0
+
+[PlasmaViews][Panel 144][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 145][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 146][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 147][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelVisibility=0
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 2][Horizontal1920]
+maxLength=1920
+minLength=1920
+
+[PlasmaViews][Panel 264][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 264][Horizontal1920]
+maxLength=1630
+minLength=1630
+offset=242
+
+[PlasmaViews][Panel 3]
+alignment=132
+panelVisibility=0
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 458]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 458][Defaults]
+maxLength=854
+minLength=854
+thickness=40
+
+[PlasmaViews][Panel 458][Horizontal2236]
+maxLength=574
+minLength=574
+
+[PlasmaViews][Panel 458][Vertical1080]
+maxLength=998
+minLength=998
+
+[PlasmaViews][Panel 458][Vertical1440]
+maxLength=1358
+minLength=1358
+
+[PlasmaViews][Panel 458][Vertical936]
+maxLength=854
+minLength=854
+
+[PlasmaViews][Panel 459]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 459][Defaults]
+maxLength=854
+minLength=854
+thickness=40
+
+[PlasmaViews][Panel 459][Horizontal1920]
+maxLength=970
+minLength=970
+
+[PlasmaViews][Panel 459][Horizontal2236]
+maxLength=636
+minLength=636
+
+[PlasmaViews][Panel 459][Vertical1080]
+maxLength=998
+minLength=998
+
+[PlasmaViews][Panel 459][Vertical1440]
+maxLength=1358
+minLength=1358
+
+[PlasmaViews][Panel 459][Vertical936]
+maxLength=854
+minLength=854
+
+[PlasmaViews][Panel 51][Defaults]
+thickness=39
+
+[PlasmaViews][Panel 515]
+alignment=132
+
+[PlasmaViews][Panel 515][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 516]
+alignment=132
+
+[PlasmaViews][Panel 516][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 517]
+alignment=132
+
+[PlasmaViews][Panel 517][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 518]
+alignment=132
+
+[PlasmaViews][Panel 518][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 59][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 596]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 596][Defaults]
+maxLength=998
+minLength=998
+thickness=40
+
+[PlasmaViews][Panel 596][Horizontal1920]
+minLength=910
+
+[PlasmaViews][Panel 596][Vertical1080]
+maxLength=998
+minLength=998
+
+[PlasmaViews][Panel 597]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 597][Defaults]
+maxLength=998
+minLength=998
+thickness=40
+
+[PlasmaViews][Panel 597][Horizontal1920]
+maxLength=692
+minLength=692
+
+[PlasmaViews][Panel 597][Vertical1080]
+maxLength=998
+minLength=998
+
+[PlasmaViews][Panel 60][Defaults]
+thickness=28
+
+[PlasmaViews][Panel 70][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 72][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 83]
+alignment=132
+
+[PlasmaViews][Panel 83][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 84]
+alignment=132
+
+[PlasmaViews][Panel 84][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 90][Defaults]
+thickness=36
+
+[ScreenConnectors]
+0=DP-3
+1=DP-4
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/folderview_fix_recursive_screenmapping.js
+
+[kuick-move]
+Paths[$e]=/media/me/DATA/I_Thought

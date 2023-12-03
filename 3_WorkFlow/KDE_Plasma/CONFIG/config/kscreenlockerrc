@@ -1,0 +1,13 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+LockGrace=0
+
+[Greeter]
+Theme=org.kde.breezedark.desktop
+
+[Greeter][Wallpaper][org.kde.image][General]
+FillMode=2
+Image=file:///home/live/.local/share/wallpapers/Single/mac_osx_2013.png

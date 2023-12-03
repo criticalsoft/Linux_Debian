@@ -1,0 +1,14 @@
+[autodisable]
+DisableOnKeyboardActivity=false
+OnlyDisableTapAndScrollOnKeyboardActivity=false
+
+[parameters]
+AccelFactor=0.055888090282678604
+HorizEdgeScroll=true
+HorizTwoFingerScroll=true
+InvertVertScroll=true
+OneFingerTapButton=LeftButton
+Tapping=true
+ThreeFingerTapButton=MiddleButton
+TwoFingerTapButton=RightButton
+VertEdgeScroll=true

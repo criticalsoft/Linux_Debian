@@ -1,0 +1,96 @@
+<?xml version='1.0'?>
+<!DOCTYPE gui SYSTEM 'kpartgui.dtd'>
+<gui name="konsole" version="20">
+ <MenuBar>
+  <Menu name="file">
+   <text>File</text>
+   <Action name="new-window"/>
+   <Action name="new-tab"/>
+   <Action name="clone-tab"/>
+   <Separator/>
+   <DefineGroup name="session-operations"/>
+   <Separator/>
+   <DefineGroup name="session-tab-operations"/>
+   <Action name="close-window"/>
+  </Menu>
+  <Menu name="edit">
+   <text>Edit</text>
+   <DefineGroup name="session-edit-operations"/>
+  </Menu>
+  <Menu name="view">
+   <text>View</text>
+   <Menu name="view-split">
+    <text>Split View</text>
+    <Action name="split-view-left-right"/>
+    <Action name="split-view-top-bottom"/>
+    <Action name="split-view-left-right-next-tab"/>
+    <Action name="split-view-top-bottom-next-tab"/>
+    <Action name="close-active-view"/>
+    <Action name="close-other-views"/>
+    <Action name="expand-active-view"/>
+    <Action name="shrink-active-view"/>
+    <Action name="toggle-maximize-current-view"/>
+    <Action name="equal-size-view"/>
+   </Menu>
+   <Separator/>
+   <Action name="detach-tab"/>
+   <Action name="detach-view"/>
+   <Action name="save-layout"/>
+   <Action name="load-layout"/>
+   <Separator/>
+   <DefineGroup name="session-view-operations"/>
+  </Menu>
+  <Action name="bookmark"/>
+  <Menu name="settings">
+   <text>Settings</text>
+   <DefineGroup name="session-settings"/>
+   <Action name="manage-profiles"/>
+   <Action name="show-menubar"/>
+   <Action name="window-colorscheme-menu"/>
+   <Separator/>
+   <Action name="view-full-screen"/>
+   <Separator/>
+   <Action name="configure-shortcuts"/>
+   <Action name="configure-notifications"/>
+   <Action name="configure-settings"/>
+  </Menu>
+  <Menu name="plugins">
+   <text>Plugins</text>
+   <ActionList name="plugin-submenu"/>
+  </Menu>
+  <Menu name="help">
+   <text>Help</text>
+  </Menu>
+ </MenuBar>
+ <ToolBar noMerge="1" alreadyVisited="1" name="mainToolBar">
+  <Action name="bookmark"/>
+  <Action name="new-window"/>
+  <text translationDomain="kxmlgui5">Main Toolbar</text>
+  <index>0</index>
+  <Action name="new-tab"/>
+  <Spacer name="spacer_0"/>
+  <Action name="split-view-left-right"/>
+  <Action name="split-view-top-bottom"/>
+  <Separator name="separator_0"/>
+  <Action name="options_show_menubar"/>
+  <Action name="activate-menu"/>
+ </ToolBar>
+ <ActionProperties>
+  <Action icon="application-menu" priority="0" name="activate-menu"/>
+  <Action icon="bookmarks" priority="0" name="bookmark"/>
+  <Action shortcut="" name="clone-tab"/>
+  <Action shortcut="Ctrl+Q" name="close-window"/>
+  <Action priority="0" name="detach-view"/>
+  <Action shortcut="" name="fullscreen"/>
+  <Action shortcut="" name="help_contents"/>
+  <Action priority="0" name="manage-profiles"/>
+  <Action priority="0" shortcut="Ctrl+T" name="new-tab"/>
+  <Action priority="0" shortcut="Ctrl+N; Ctrl+D" name="new-window"/>
+  <Action shortcut="Shift+Right; Ctrl+Tab" name="next-view"/>
+  <Action priority="0" name="options_show_menubar"/>
+  <Action shortcut="Shift+Left; Ctrl+Shift+Tab" name="previous-view"/>
+  <Action priority="0" name="split-view-left-right"/>
+  <Action priority="0" name="split-view-top-bottom"/>
+  <Action priority="0" name="toggle-maximize-current-view"/>
+ </ActionProperties>
+</gui>

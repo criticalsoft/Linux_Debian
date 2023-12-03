@@ -1,0 +1,110 @@
+2022-03-17 00:52:40.379 (I) ==================== SSR started ====================
+2022-03-17 00:52:40.379 (I) SimpleScreenRecorder 0.4.3
+Compiled with GCC 10.3.0
+Qt: header 5.15.2, lib 5.15.2
+libavformat: header 58.76.100, lib 58.76.100
+libavcodec: header 58.134.100, lib 58.134.100
+libavutil: header 56.70.100, lib 56.70.100
+libswscale: header 5.9.100, lib 5.9.100
+2022-03-17 00:52:40.379 (I) [CPUFeatures::Detect] CPU features: mmx sse sse2 sse3 ssse3 sse4_1 sse4_2 avx
+2022-03-17 00:52:40.439 (I) [ALSAInput::GetSourceList] Generating source list ...
+2022-03-17 00:52:40.440 (I) [ALSAInput::GetSourceList] Found plugin: [lavrate] Rate Converter Plugin Using Libav/FFmpeg Library
+2022-03-17 00:52:40.440 (I) [ALSAInput::GetSourceList] Found plugin: [a52] Plugin to convert multichannel stream to A52 (AC3) bitstream
+2022-03-17 00:52:40.441 (I) [ALSAInput::GetSourceList] Found card: [hw:0] HDA Intel PCH
+2022-03-17 00:52:40.441 (I) [ALSAInput::GetSourceList] Found device: [hw:0,0] HDA Intel PCH: ALC892 Analog
+2022-03-17 00:52:40.441 (I) [ALSAInput::GetSourceList] Found device: [hw:0,2] HDA Intel PCH: ALC892 Alt Analog
+2022-03-17 00:52:40.441 (I) [ALSAInput::GetSourceList] Found card: [hw:1] HDA ATI HDMI
+2022-03-17 00:52:40.441 (I) [PulseAudioInput::GetSourceList] Generating source list ...
+2022-03-17 00:52:40.443 (I) [SourceNamesCallback] Found source: [alsa_output.pci-0000_01_00.1.hdmi-stereo.monitor] Monitor of Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590] Digital Stereo (HDMI)
+2022-03-17 00:52:40.443 (I) [SourceNamesCallback] Found source: [alsa_output.pci-0000_00_1b.0.iec958-stereo.monitor] Monitor of Built-in Audio Digital Stereo (IEC958)
+2022-03-17 00:53:14.440 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:53:56.298 (I) [PageRecord::StartPage] Starting page ...
+2022-03-17 00:53:56.299 (I) [PageRecord::StartPage] Started page.
+2022-03-17 00:54:20.797 (I) [PageRecord::StartInput] Starting input ...
+2022-03-17 00:54:20.798 (I) [X11Input::Init] Using X11 shared memory.
+2022-03-17 00:54:20.798 (I) [X11Input::InputThread] Input thread started.
+2022-03-17 00:54:20.845 (I) [PulseAudioInput::InputThread] Stream is a monitor.
+2022-03-17 00:54:20.845 (I) [PageRecord::StartInput] Started input.
+2022-03-17 00:54:20.845 (I) [PulseAudioInput::InputThread] Input thread started.
+2022-03-17 00:54:29.646 (I) [PageRecord::StartOutput] Starting output ...
+2022-03-17 00:54:29.646 (I) [Muxer::Init] Using format mp4 (MP4 (MPEG-4 Part 14)).
+2022-03-17 00:54:29.649 (I) [Muxer::AddStream] Using codec libx264 (libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10).
+2022-03-17 00:54:29.649 (I) [VideoEncoder::PrepareStream] Using pixel format nv12.
+2022-03-17 00:54:29.649 (S) [libx264 @ 0x56547e9ae8c0] using SAR=1/1
+2022-03-17 00:54:29.652 (S) [libx264 @ 0x56547e9ae8c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+2022-03-17 00:54:29.655 (S) [libx264 @ 0x56547e9ae8c0] profile Constrained Baseline, level 5.0, 4:2:0, 8-bit
+2022-03-17 00:54:29.655 (S) [libx264 @ 0x56547e9ae8c0] 264 - core 163 r3060 5db6aa6 - H.264/MPEG-4 AVC codec - Copyleft 2003-2021 - http://www.videolan.org/x264.html - options: cabac=0 ref=1 deblock=0:0:0 analyse=0:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=0 weightp=0 keyint=250 keyint_min=25 scenecut=0 intra_refresh=0 rc=crf mbtree=0 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=0
+2022-03-17 00:54:29.655 (I) [Muxer::AddStream] Using codec aac (AAC (Advanced Audio Coding)).
+2022-03-17 00:54:29.656 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2022-03-17 00:54:29.656 (I) [AudioEncoder::PrepareStream] Using sample format f32p.
+2022-03-17 00:54:29.657 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2022-03-17 00:54:29.657 (I) [Muxer::MuxerThread] Muxer thread started.
+2022-03-17 00:54:29.657 (I) [PageRecord::StartOutput] Started output.
+2022-03-17 00:54:29.658 (I) [Synchronizer::SynchronizerThread] Synchronizer thread started.
+2022-03-17 00:54:29.660 (I) [FastResampler::Resample] Resample ratio is 1.0000 (was 0.0000).
+2022-03-17 00:54:33.003 (I) [PageRecord::StopOutput] Stopping output ...
+2022-03-17 00:54:33.003 (I) [PageRecord::StopOutput] Stopped output.
+2022-03-17 00:54:33.006 (I) [PageRecord::StopInput] Stopping input ...
+2022-03-17 00:54:33.006 (I) [X11Input::~X11Input] Stopping input thread ...
+2022-03-17 00:54:33.033 (I) [X11Input::InputThread] Input thread stopped.
+2022-03-17 00:54:33.037 (I) [PulseAudioInput::~PulseAudioInput] Stopping input thread ...
+2022-03-17 00:54:33.038 (I) [PulseAudioInput::InputThread] Input thread stopped.
+2022-03-17 00:54:33.039 (I) [PageRecord::StopInput] Stopped input.
+2022-03-17 00:54:33.039 (I) [PageRecord::StopPage] Stopping page ...
+2022-03-17 00:54:33.039 (I) [Synchronizer::~Synchronizer] Stopping synchronizer thread ...
+2022-03-17 00:54:33.056 (I) [Synchronizer::SynchronizerThread] Synchronizer thread stopped.
+2022-03-17 00:54:33.057 (I) [Muxer::Finish] Finishing encoders ...
+2022-03-17 00:54:33.064 (I) [BaseEncoder::EncoderThread] Flushing encoder ...
+2022-03-17 00:54:33.074 (I) [BaseEncoder::EncoderThread] Flushing encoder ...
+2022-03-17 00:54:33.074 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2022-03-17 00:54:33.097 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2022-03-17 00:54:33.103 (I) [Muxer::MuxerThread] Muxer thread stopped.
+2022-03-17 00:54:33.118 (I) [Muxer::~Muxer] Stopping encoders ...
+2022-03-17 00:54:33.118 (I) [Muxer::~Muxer] Waiting for muxer thread to stop ...
+2022-03-17 00:54:33.121 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2022-03-17 00:54:33.121 (S) [libx264 @ 0x56547e9ae8c0] frame I:1     Avg QP:17.00  size:302750
+2022-03-17 00:54:33.121 (S) [libx264 @ 0x56547e9ae8c0] frame P:99    Avg QP:16.99  size: 62254
+2022-03-17 00:54:33.121 (S) [libx264 @ 0x56547e9ae8c0] mb I  I16..4: 100.0%  0.0%  0.0%
+2022-03-17 00:54:33.121 (S) [libx264 @ 0x56547e9ae8c0] mb P  I16..4:  7.8%  0.0%  0.0%  P16..4: 43.7%  0.0%  0.0%  0.0%  0.0%    skip:48.5%
+2022-03-17 00:54:33.122 (S) [libx264 @ 0x56547e9ae8c0] coded y,uvDC,uvAC intra: 13.9% 43.7% 8.3% inter: 17.2% 26.4% 0.7%
+2022-03-17 00:54:33.122 (S) [libx264 @ 0x56547e9ae8c0] i16 v,h,dc,p: 35% 30% 16% 19%
+2022-03-17 00:54:33.122 (S) [libx264 @ 0x56547e9ae8c0] i8c dc,h,v,p: 45% 25% 19% 11%
+2022-03-17 00:54:33.122 (S) [libx264 @ 0x56547e9ae8c0] kb/s:15518.25
+2022-03-17 00:54:33.124 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2022-03-17 00:54:33.124 (S) [aac @ 0x56547eabec00] Qavg: 65536.000
+2022-03-17 00:54:33.124 (I) [PageRecord::StopPage] Stopped page.
+2022-03-17 00:54:36.693 (S) kf.service.services: KApplicationTrader: mimeType "x-scheme-handler/file" not found
+2022-03-17 00:54:37.545 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:54:38.847 (S) [000055e14450f5b0] main libvlc: Running vlc with the default interface. Use 'cvlc' to use vlc without interface.
+2022-03-17 00:54:39.382 (S) [00007f0620004380] gl gl: Initialized libplacebo v4.192.1 (API v192)
+2022-03-17 00:54:39.386 (S) libva info: VA-API version 1.14.0
+2022-03-17 00:54:39.386 (S) libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so
+2022-03-17 00:54:39.389 (S) libva info: Found init function __vaDriverInit_1_14
+2022-03-17 00:54:39.400 (S) libva info: va_openDriver() returns 0
+2022-03-17 00:54:39.492 (S) [00007f0630c1cb40] avcodec decoder: Using Mesa Gallium driver 21.3.7 for AMD Radeon Pro WX 5100 Graphics (POLARIS10, DRM 3.44.0, 5.16.0-4-amd64, LLVM 13.0.1) for hardware decoding
+2022-03-17 00:54:42.996 (S) [31muint DBusMenuExporterDBus::GetLayout(int, int, const QStringList&, DBusMenuLayoutItem&)[0m: Condition failed: menu
+2022-03-17 00:54:42.996 (S) [31muint DBusMenuExporterDBus::GetLayout(int, int, const QStringList&, DBusMenuLayoutItem&)[0m: Condition failed: menu
+2022-03-17 00:54:44.360 (S) [31muint DBusMenuExporterDBus::GetLayout(int, int, const QStringList&, DBusMenuLayoutItem&)[0m: Condition failed: menu
+2022-03-17 00:54:44.360 (S) [31muint DBusMenuExporterDBus::GetLayout(int, int, const QStringList&, DBusMenuLayoutItem&)[0m: Condition failed: menu
+2022-03-17 00:54:44.407 (S) [00007f060c0017b0] gl gl: Initialized libplacebo v4.192.1 (API v192)
+2022-03-17 00:54:44.408 (S) libva info: VA-API version 1.14.0
+2022-03-17 00:54:44.409 (S) libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/radeonsi_drv_video.so
+2022-03-17 00:54:44.409 (S) libva info: Found init function __vaDriverInit_1_14
+2022-03-17 00:54:44.415 (S) libva info: va_openDriver() returns 0
+2022-03-17 00:54:44.487 (S) [00007f06201ec950] avcodec decoder: Using Mesa Gallium driver 21.3.7 for AMD Radeon Pro WX 5100 Graphics (POLARIS10, DRM 3.44.0, 5.16.0-4-amd64, LLVM 13.0.1) for hardware decoding
+2022-03-17 00:54:47.994 (S) [31muint DBusMenuExporterDBus::GetLayout(int, int, const QStringList&, DBusMenuLayoutItem&)[0m: Condition failed: menu
+2022-03-17 00:54:47.994 (S) [31muint DBusMenuExporterDBus::GetLayout(int, int, const QStringList&, DBusMenuLayoutItem&)[0m: Condition failed: menu
+2022-03-17 00:54:48.725 (S) QObject::~QObject: Timers cannot be stopped from another thread
+2022-03-17 00:55:02.118 (S) Cannot initialize model with data QJsonObject(). missing: QJsonValue(string, "urls")
+2022-03-17 00:55:02.199 (S) kf.kio.widgets: Failed to convert QUrl("file:///media/me/DATA/DESKTOP/screenrecord-2022-03-17_00.54.29.mp4") to canonical path
+2022-03-17 00:55:05.160 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:05.290 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:05.717 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:06.061 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:06.928 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:07.642 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:07.968 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:11.051 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:11.344 (S) Qt: Session management error: networkIdsList argument is NULL
+2022-03-17 00:55:11.816 (S)   OpenType support missing for "Noto Mono", script 66
+2022-03-17 00:55:21.997 (I) ==================== SSR stopped ====================

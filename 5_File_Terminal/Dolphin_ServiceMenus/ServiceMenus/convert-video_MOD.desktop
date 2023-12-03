@@ -1,0 +1,21 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=video/*
+Actions=convert-webm;convert-mp4
+Icon=video
+#Must Have
+X-KDE-Priority=TopLevel
+X-KDE-Submenu=Convert
+
+[Desktop Action convert-webm]
+Name=Convert to webm
+Icon=video
+#Exec=ffmpeg -i %u -c copy -strict experimental -y %u.webm
+Exec=ffmpeg -i %u -y %u.webm
+
+[Desktop Action convert-mp4]
+Name=Convert to mp4
+Icon=video
+#Exec=ffmpeg -i %u -c copy -strict experimental -y %u.mp4
+Exec=ffmpeg -i %u -y %u.mp4

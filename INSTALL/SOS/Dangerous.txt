@@ -1,0 +1,31 @@
+SomeTimes apt purge May Purge The Whole System
+Only Install, DoNot Remove
+
+
+dpkg -i Different Version May Crash System
+
+
+Upgrade On Server
+Config File Will Change (Location Will Change)
+Software Version Will Change (PostgreSQL, Python)
+Source Code Will Change (NodeJS, Odoo)
+
+
+Changed Current UserID to 0 (root) In -etc-passwd, Cannot LogIn, HD Mount Path Will Change To -media-root-
+Do not change any system file permission (If you cann't copy some file you can use Root Explorer)_If you need permission you should only change permission what folder you need
+Donot Install Testing Driver to Stable_Black Screen Cannot Enter System
+Evil script with sudo rm _rf root command in it
+EXTRIMLY DANGROUS_apt WildCard Package (The following ... unmet dependencies),If Force Install+WildCard Remove=The whole system or something important willbe remove_eg WildCard-icon-theme, nvidiaWildCard, xfce4-WildCard
+EXTRIMLY DANGROUS_If Paste Twice rm -r alias_folder & ln -s mnt_folder alias_folder To The Terminal (The second time everything inside mnt_folder willbe deleted)
+EXTRIMLY DANGROUS_initramfs Boot Error_Never Ever Do fsck -f To DATA Partition (I donot know initramfs has blkid, so i did fsck -f to every partition)_You will lose partition table, if it happen, use testdisk
+If you deleted some file wrong, Stop ANY new operation IMMEDIATELY, Or you may lose data (eg Create New Sombolic Link With the same name as old Folder)
+Live Environment Doesnot Confirm sudo dd Password
+lsblk Sometimes Never Refresh, Use gparted
+Never Recovery to the same partition, Even software can do it
+usermod -a -G root _USER, usermod -g root _USER_Is Totally Different (append)
+When you find you can't delete some file or folder in Trash, Never enter Trash and Open Terminal (The Path Is Home), And Donot rm -r
+如果拷贝途中崩溃_检查一遍属性(数量 大小)
+终端进入文件夹执行脚本 文件浏览器删除脚本所在文件夹 脚本里执行cd dotdot命令 这时位置已变成_media_user_DATA__Trash-1000_files 再cd dotdot cd dotdot 再执行命令 无法预料
+
+
+

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Activity Manage Shortcut
+Exec=qdbus org.kde.kglobalaccel /component/plasmashell invokeShortcut 'manage activities'
+Icon=activity_manage_
+Type=Application
+OnlyShowIn=KDE;
+StartupNotify=false

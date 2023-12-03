@@ -1,0 +1,371 @@
+2023-01-03 08:59:39.028 (I) ==================== SSR started ====================
+2023-01-03 08:59:39.028 (I) SimpleScreenRecorder 0.4.4
+Compiled with GCC 11.3.0
+Qt: header 5.15.4, lib 5.15.7
+libavformat: header 59.16.100, lib 59.27.100
+libavcodec: header 59.18.100, lib 59.37.100
+libavutil: header 57.17.100, lib 57.28.100
+libswscale: header 6.4.100, lib 6.7.100
+2023-01-03 08:59:39.028 (I) [CPUFeatures::Detect] CPU features: mmx sse sse2 sse3 ssse3 sse4_1 sse4_2 avx
+2023-01-03 08:59:39.062 (I) [ALSAInput::GetSourceList] Generating source list ...
+2023-01-03 08:59:39.063 (I) [ALSAInput::GetSourceList] Found plugin: [lavrate] Rate Converter Plugin Using Libav/FFmpeg Library
+2023-01-03 08:59:39.063 (I) [ALSAInput::GetSourceList] Found plugin: [a52] Plugin to convert multichannel stream to A52 (AC3) bitstream
+2023-01-03 08:59:39.064 (I) [ALSAInput::GetSourceList] Found card: [hw:0] HDA Intel PCH
+2023-01-03 08:59:39.064 (I) [ALSAInput::GetSourceList] Found device: [hw:0,0] HDA Intel PCH: ALC892 Analog
+2023-01-03 08:59:39.064 (I) [ALSAInput::GetSourceList] Found device: [hw:0,2] HDA Intel PCH: ALC892 Alt Analog
+2023-01-03 08:59:39.064 (I) [ALSAInput::GetSourceList] Found card: [hw:1] HDA ATI HDMI
+2023-01-03 08:59:39.064 (I) [PulseAudioInput::GetSourceList] Generating source list ...
+2023-01-03 08:59:39.066 (I) [SourceNamesCallback] Found source: [alsa_output.pci-0000_01_00.1.hdmi-stereo-extra2.monitor] Monitor of Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590] Digital Stereo (HDMI 3)
+2023-01-03 08:59:39.066 (I) [SourceNamesCallback] Found source: [alsa_output.pci-0000_00_1b.0.iec958-stereo.monitor] Monitor of Built-in Audio Digital Stereo (IEC958)
+2023-01-03 08:59:47.846 (I) [PageRecord::StartPage] Starting page ...
+2023-01-03 08:59:47.846 (I) [PageRecord::StartPage] Started page.
+2023-01-03 08:59:49.871 (I) [PageRecord::StartInput] Starting input ...
+2023-01-03 08:59:49.872 (I) [X11Input::Init] Using X11 shared memory.
+2023-01-03 08:59:49.872 (I) [X11Input::Init] Detecting screen configuration ...
+2023-01-03 08:59:49.872 (I) [X11Input::Init] Screen 0: x1 = 0, y1 = 0, x2 = 3440, y2 = 1440
+2023-01-03 08:59:49.872 (I) [X11Input::Init] Screen 1: x1 = 3440, y1 = 360, x2 = 5360, y2 = 1440
+2023-01-03 08:59:49.872 (I) [X11Input::Init] Dead space 0: x1 = 3440, y1 = 0, x2 = 5360, y2 = 360
+2023-01-03 08:59:49.872 (I) [X11Input::InputThread] Input thread started.
+2023-01-03 08:59:49.873 (I) [ALSAInput::InputThread] Using sample format s16.
+2023-01-03 08:59:49.874 (I) [PageRecord::StartInput] Started input.
+2023-01-03 08:59:49.874 (I) [ALSAInput::InputThread] Input thread started.
+2023-01-03 08:59:50.727 (I) [PageRecord::StartOutput] Starting output ...
+2023-01-03 08:59:50.728 (I) [PageRecord::StartOutput] Output file: /media/me/SOFT/DESKTOP/REC-2023-01-03_08.59.50.mp4
+2023-01-03 08:59:50.728 (I) [Muxer::Init] Using format mp4 (MP4 (MPEG-4 Part 14)).
+2023-01-03 08:59:50.728 (I) [Muxer::AddStream] Using codec libx264 (libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10).
+2023-01-03 08:59:50.729 (I) [VideoEncoder::PrepareStream] Using pixel format nv12.
+2023-01-03 08:59:50.729 (S) [libx264 @ 0x5564835afb40] using SAR=1/1
+2023-01-03 08:59:50.731 (S) [libx264 @ 0x5564835afb40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+2023-01-03 08:59:50.736 (S) [libx264 @ 0x5564835afb40] profile Constrained Baseline, level 4.0, 4:2:0, 8-bit
+2023-01-03 08:59:50.737 (S) [libx264 @ 0x5564835afb40] 264 - core 164 r3095 baee400 - H.264/MPEG-4 AVC codec - Copyleft 2003-2022 - http://www.videolan.org/x264.html - options: cabac=0 ref=1 deblock=0:0:0 analyse=0:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=0 weightp=0 keyint=250 keyint_min=25 scenecut=0 intra_refresh=0 rc=crf mbtree=0 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=0
+2023-01-03 08:59:50.737 (I) [Muxer::AddStream] Using codec aac (AAC (Advanced Audio Coding)).
+2023-01-03 08:59:50.737 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 08:59:50.737 (I) [AudioEncoder::PrepareStream] Using sample format f32p.
+2023-01-03 08:59:50.739 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 08:59:50.739 (I) [Muxer::MuxerThread] Muxer thread started.
+2023-01-03 08:59:50.739 (I) [PageRecord::StartOutput] Started output.
+2023-01-03 08:59:50.739 (I) [Synchronizer::SynchronizerThread] Synchronizer thread started.
+2023-01-03 08:59:50.752 (I) [FastResampler::Resample] Resample ratio is 1.0000 (was 0.0000).
+2023-01-03 09:21:01.256 (S) QObject::connect: No such signal QScreen::geometryChanged()
+2023-01-03 09:21:01.256 (S) QObject::connect: No such signal QScreen::physicalDotsPerInchChanged()
+2023-01-03 09:21:01.575 (E) [X11Input::InputThread] Error: Can't get image (using shared memory)!
+    Usually this means the recording area is not completely inside the screen. Or did you change the screen resolution?
+2023-01-03 09:21:01.575 (E) [X11Input::InputThread] Exception 'X11Exception' in input thread.
+2023-01-03 09:21:01.670 (S) QObject::connect: No such signal QScreen::geometryChanged()
+2023-01-03 09:21:01.670 (S) QObject::connect: No such signal QScreen::physicalDotsPerInchChanged()
+2023-01-03 09:21:01.734 (I) [PageRecord::OnStdin] Standard input closed (ioctl).
+2023-01-03 09:21:01.749 (W) [Synchronizer::ReadAudioSamples] Warning: Not enough audio samples, inserting silence to keep the audio in sync with the video.
+2023-01-03 09:21:05.515 (W) [Synchronizer::ReadAudioSamples] Warning: Not enough audio samples, inserting silence to keep the audio in sync with the video.
+2023-01-03 09:21:05.518 (W) [Synchronizer::ReadAudioSamples] Warning: Too many audio samples, dropping samples to keep the audio in sync with the video.
+2023-01-03 09:21:22.371 (W) [Synchronizer::ReadAudioSamples] Warning: Audio buffer overflow, starting new segment to keep the audio in sync with the video (some video and/or audio may be lost). The video input seems to be too slow.
+2023-01-03 09:21:38.918 (I) [PageRecord::StopOutput] Stopping output ...
+2023-01-03 09:21:38.918 (I) [PageRecord::StopOutput] Stopped output.
+2023-01-03 09:21:38.918 (I) [PageRecord::StopInput] Stopping input ...
+2023-01-03 09:21:38.918 (I) [X11Input::~X11Input] Stopping input thread ...
+2023-01-03 09:21:38.921 (I) [ALSAInput::~ALSAInput] Stopping input thread ...
+2023-01-03 09:21:38.928 (I) [ALSAInput::InputThread] Input thread stopped.
+2023-01-03 09:21:38.929 (I) [PageRecord::StopInput] Stopped input.
+2023-01-03 09:21:38.929 (I) [PageRecord::StopPage] Stopping page ...
+2023-01-03 09:21:38.929 (I) [Synchronizer::~Synchronizer] Stopping synchronizer thread ...
+2023-01-03 09:21:38.933 (I) [Synchronizer::SynchronizerThread] Synchronizer thread stopped.
+2023-01-03 09:21:38.934 (I) [Muxer::Finish] Finishing encoders ...
+2023-01-03 09:21:38.943 (I) [BaseEncoder::EncoderThread] Flushing encoder ...
+2023-01-03 09:21:38.948 (I) [BaseEncoder::EncoderThread] Flushing encoder ...
+2023-01-03 09:21:38.949 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:21:38.958 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:21:38.962 (I) [Muxer::MuxerThread] Muxer thread stopped.
+2023-01-03 09:21:38.975 (I) [Muxer::~Muxer] Stopping encoders ...
+2023-01-03 09:21:38.975 (I) [Muxer::~Muxer] Waiting for muxer thread to stop ...
+2023-01-03 09:21:38.995 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] frame I:153   Avg QP:15.36  size:566963
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] frame P:37963 Avg QP:18.34  size: 88012
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] mb I  I16..4: 100.0%  0.0%  0.0%
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] mb P  I16..4: 12.0%  0.0%  0.0%  P16..4: 50.7%  0.0%  0.0%  0.0%  0.0%    skip:37.4%
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] coded y,uvDC,uvAC intra: 68.7% 33.7% 14.0% inter: 38.1% 16.9% 3.3%
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] i16 v,h,dc,p: 19% 41% 26% 14%
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] i8c dc,h,v,p: 48% 34% 12%  6%
+2023-01-03 09:21:38.995 (S) [libx264 @ 0x5564835afb40] kb/s:21580.86
+2023-01-03 09:21:38.995 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:21:38.996 (S) [aac @ 0x5564836b1540] Qavg: 5653.086
+2023-01-03 09:21:38.996 (I) [PageRecord::StopPage] Stopped page.
+2023-01-03 09:23:53.912 (I) [PageRecord::StartPage] Starting page ...
+2023-01-03 09:23:53.912 (I) [PageRecord::StartPage] Started page.
+2023-01-03 09:23:53.912 (I) [PageRecord::StartInput] Starting input ...
+2023-01-03 09:23:53.913 (I) [X11Input::Init] Using X11 shared memory.
+2023-01-03 09:23:53.913 (I) [X11Input::Init] Detecting screen configuration ...
+2023-01-03 09:23:53.913 (I) [X11Input::Init] Screen 0: x1 = 0, y1 = 0, x2 = 3440, y2 = 1440
+2023-01-03 09:23:53.913 (I) [X11Input::Init] Screen 1: x1 = 3440, y1 = 360, x2 = 5360, y2 = 1440
+2023-01-03 09:23:53.913 (I) [X11Input::Init] Dead space 0: x1 = 3440, y1 = 0, x2 = 5360, y2 = 360
+2023-01-03 09:23:53.914 (I) [X11Input::InputThread] Input thread started.
+2023-01-03 09:23:53.915 (I) [ALSAInput::InputThread] Using sample format s16.
+2023-01-03 09:23:53.916 (I) [PageRecord::StartInput] Started input.
+2023-01-03 09:23:53.916 (I) [ALSAInput::InputThread] Input thread started.
+2023-01-03 09:23:58.693 (I) [PageRecord::StopInput] Stopping input ...
+2023-01-03 09:23:58.693 (I) [X11Input::~X11Input] Stopping input thread ...
+2023-01-03 09:23:58.711 (I) [X11Input::InputThread] Input thread stopped.
+2023-01-03 09:23:58.716 (I) [ALSAInput::~ALSAInput] Stopping input thread ...
+2023-01-03 09:23:58.749 (I) [ALSAInput::InputThread] Input thread stopped.
+2023-01-03 09:23:58.750 (I) [PageRecord::StopInput] Stopped input.
+2023-01-03 09:23:59.271 (I) [PageRecord::StartInput] Starting input ...
+2023-01-03 09:23:59.272 (I) [X11Input::Init] Using X11 shared memory.
+2023-01-03 09:23:59.272 (I) [X11Input::Init] Detecting screen configuration ...
+2023-01-03 09:23:59.273 (I) [X11Input::Init] Screen 0: x1 = 0, y1 = 0, x2 = 3440, y2 = 1440
+2023-01-03 09:23:59.273 (I) [X11Input::Init] Screen 1: x1 = 3440, y1 = 360, x2 = 5360, y2 = 1440
+2023-01-03 09:23:59.273 (I) [X11Input::Init] Dead space 0: x1 = 3440, y1 = 0, x2 = 5360, y2 = 360
+2023-01-03 09:23:59.273 (I) [X11Input::InputThread] Input thread started.
+2023-01-03 09:23:59.274 (I) [ALSAInput::InputThread] Using sample format s16.
+2023-01-03 09:23:59.274 (I) [PageRecord::StartInput] Started input.
+2023-01-03 09:23:59.274 (I) [ALSAInput::InputThread] Input thread started.
+2023-01-03 09:24:00.179 (I) [PageRecord::StopInput] Stopping input ...
+2023-01-03 09:24:00.179 (I) [X11Input::~X11Input] Stopping input thread ...
+2023-01-03 09:24:00.192 (I) [X11Input::InputThread] Input thread stopped.
+2023-01-03 09:24:00.198 (I) [ALSAInput::~ALSAInput] Stopping input thread ...
+2023-01-03 09:24:00.202 (I) [ALSAInput::InputThread] Input thread stopped.
+2023-01-03 09:24:00.203 (I) [PageRecord::StopInput] Stopped input.
+2023-01-03 09:24:01.273 (I) [PageRecord::StopPage] Stopping page ...
+2023-01-03 09:24:01.273 (I) [PageRecord::StopPage] Stopped page.
+2023-01-03 09:24:14.673 (I) [PageRecord::StartPage] Starting page ...
+2023-01-03 09:24:14.673 (I) [PageRecord::StartPage] Started page.
+2023-01-03 09:24:16.311 (I) [PageRecord::StopPage] Stopping page ...
+2023-01-03 09:24:16.312 (I) [PageRecord::StopPage] Stopped page.
+2023-01-03 09:24:20.771 (I) [PageRecord::StartPage] Starting page ...
+2023-01-03 09:24:20.771 (I) [PageRecord::StartPage] Started page.
+2023-01-03 09:24:23.093 (I) [PageRecord::StartInput] Starting input ...
+2023-01-03 09:24:23.094 (I) [X11Input::Init] Using X11 shared memory.
+2023-01-03 09:24:23.094 (I) [X11Input::Init] Detecting screen configuration ...
+2023-01-03 09:24:23.094 (I) [X11Input::Init] Screen 0: x1 = 0, y1 = 0, x2 = 3440, y2 = 1440
+2023-01-03 09:24:23.094 (I) [X11Input::Init] Screen 1: x1 = 3440, y1 = 360, x2 = 5360, y2 = 1440
+2023-01-03 09:24:23.094 (I) [X11Input::Init] Dead space 0: x1 = 3440, y1 = 0, x2 = 5360, y2 = 360
+2023-01-03 09:24:23.095 (I) [X11Input::InputThread] Input thread started.
+2023-01-03 09:24:23.097 (I) [ALSAInput::InputThread] Using sample format s16.
+2023-01-03 09:24:23.097 (I) [PageRecord::StartInput] Started input.
+2023-01-03 09:24:23.098 (I) [ALSAInput::InputThread] Input thread started.
+2023-01-03 09:24:26.639 (I) [PageRecord::StartOutput] Starting output ...
+2023-01-03 09:24:26.639 (I) [PageRecord::StartOutput] Output file: /media/me/SOFT/DESKTOP/REC-2023-01-03_09.24.26.mp4
+2023-01-03 09:24:26.639 (I) [Muxer::Init] Using format mp4 (MP4 (MPEG-4 Part 14)).
+2023-01-03 09:24:26.642 (I) [Muxer::AddStream] Using codec libx264 (libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10).
+2023-01-03 09:24:26.642 (I) [VideoEncoder::PrepareStream] Using pixel format nv12.
+2023-01-03 09:24:26.642 (S) [libx264 @ 0x5564833f7580] using SAR=1/1
+2023-01-03 09:24:26.645 (S) [libx264 @ 0x5564833f7580] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+2023-01-03 09:24:26.650 (S) [libx264 @ 0x5564833f7580] profile Constrained Baseline, level 4.0, 4:2:0, 8-bit
+2023-01-03 09:24:26.650 (S) [libx264 @ 0x5564833f7580] 264 - core 164 r3095 baee400 - H.264/MPEG-4 AVC codec - Copyleft 2003-2022 - http://www.videolan.org/x264.html - options: cabac=0 ref=1 deblock=0:0:0 analyse=0:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=0 weightp=0 keyint=250 keyint_min=25 scenecut=0 intra_refresh=0 rc=crf mbtree=0 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=0
+2023-01-03 09:24:26.650 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:24:26.650 (I) [Muxer::AddStream] Using codec aac (AAC (Advanced Audio Coding)).
+2023-01-03 09:24:26.650 (I) [AudioEncoder::PrepareStream] Using sample format f32p.
+2023-01-03 09:24:26.650 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:24:26.651 (I) [Muxer::MuxerThread] Muxer thread started.
+2023-01-03 09:24:26.651 (I) [PageRecord::StartOutput] Started output.
+2023-01-03 09:24:26.651 (I) [Synchronizer::SynchronizerThread] Synchronizer thread started.
+2023-01-03 09:24:26.658 (I) [FastResampler::Resample] Resample ratio is 1.0000 (was 0.0000).
+2023-01-03 09:25:41.409 (I) [PageRecord::StopOutput] Stopping output ...
+2023-01-03 09:25:41.409 (I) [PageRecord::StopOutput] Stopped output.
+2023-01-03 09:25:41.409 (I) [PageRecord::StopInput] Stopping input ...
+2023-01-03 09:25:41.409 (I) [X11Input::~X11Input] Stopping input thread ...
+2023-01-03 09:25:41.419 (I) [X11Input::InputThread] Input thread stopped.
+2023-01-03 09:25:41.421 (I) [ALSAInput::~ALSAInput] Stopping input thread ...
+2023-01-03 09:25:41.440 (I) [ALSAInput::InputThread] Input thread stopped.
+2023-01-03 09:25:41.441 (I) [PageRecord::StopInput] Stopped input.
+2023-01-03 09:25:41.441 (I) [PageRecord::StopPage] Stopping page ...
+2023-01-03 09:25:41.441 (I) [Synchronizer::~Synchronizer] Stopping synchronizer thread ...
+2023-01-03 09:25:41.454 (I) [Synchronizer::SynchronizerThread] Synchronizer thread stopped.
+2023-01-03 09:25:41.456 (I) [Muxer::Finish] Finishing encoders ...
+2023-01-03 09:25:41.467 (I) [BaseEncoder::EncoderThread] Flushing encoder ...
+2023-01-03 09:25:41.469 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:25:41.470 (I) [BaseEncoder::EncoderThread] Flushing encoder ...
+2023-01-03 09:25:41.489 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:25:41.509 (I) [Muxer::MuxerThread] Muxer thread stopped.
+2023-01-03 09:25:41.517 (I) [Muxer::~Muxer] Stopping encoders ...
+2023-01-03 09:25:41.517 (I) [Muxer::~Muxer] Waiting for muxer thread to stop ...
+2023-01-03 09:25:41.520 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] frame I:9     Avg QP:20.56  size:391715
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] frame P:2233  Avg QP:23.54  size:139554
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] mb I  I16..4: 100.0%  0.0%  0.0%
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] mb P  I16..4: 16.7%  0.0%  0.0%  P16..4: 70.7%  0.0%  0.0%  0.0%  0.0%    skip:12.6%
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] coded y,uvDC,uvAC intra: 70.0% 33.4% 12.9% inter: 62.5% 27.0% 3.6%
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] i16 v,h,dc,p: 19% 40% 27% 14%
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] i8c dc,h,v,p: 47% 34% 12%  7%
+2023-01-03 09:25:41.520 (S) [libx264 @ 0x5564833f7580] kb/s:33735.80
+2023-01-03 09:25:41.521 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:25:41.521 (S) [aac @ 0x556483588300] Qavg: 40301.406
+2023-01-03 09:25:41.523 (I) [PageRecord::StopPage] Stopped page.
+2023-01-03 09:26:25.892 (I) [PageRecord::StartPage] Starting page ...
+2023-01-03 09:26:25.892 (I) [PageRecord::StartPage] Started page.
+2023-01-03 09:26:25.892 (I) [PageRecord::StartInput] Starting input ...
+2023-01-03 09:26:25.892 (I) [X11Input::Init] Using X11 shared memory.
+2023-01-03 09:26:25.892 (I) [X11Input::Init] Detecting screen configuration ...
+2023-01-03 09:26:25.892 (I) [X11Input::Init] Screen 0: x1 = 0, y1 = 0, x2 = 3440, y2 = 1440
+2023-01-03 09:26:25.892 (I) [X11Input::Init] Screen 1: x1 = 3440, y1 = 360, x2 = 5360, y2 = 1440
+2023-01-03 09:26:25.892 (I) [X11Input::Init] Dead space 0: x1 = 3440, y1 = 0, x2 = 5360, y2 = 360
+2023-01-03 09:26:25.892 (I) [X11Input::InputThread] Input thread started.
+2023-01-03 09:26:25.893 (I) [ALSAInput::InputThread] Using sample format s16.
+2023-01-03 09:26:25.894 (I) [PageRecord::StartInput] Started input.
+2023-01-03 09:26:25.894 (I) [ALSAInput::InputThread] Input thread started.
+2023-01-03 09:26:30.988 (I) [PageRecord::StartOutput] Starting output ...
+2023-01-03 09:26:30.989 (I) [PageRecord::StartOutput] Output file: /media/me/SOFT/DESKTOP/REC-2023-01-03_09.26.30.mp4
+2023-01-03 09:26:30.989 (I) [Muxer::Init] Using format mp4 (MP4 (MPEG-4 Part 14)).
+2023-01-03 09:26:30.991 (I) [Muxer::AddStream] Using codec libx264 (libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10).
+2023-01-03 09:26:30.991 (I) [VideoEncoder::PrepareStream] Using pixel format nv12.
+2023-01-03 09:26:30.992 (S) [libx264 @ 0x55648344e8c0] using SAR=1/1
+2023-01-03 09:26:30.998 (S) [libx264 @ 0x55648344e8c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+2023-01-03 09:26:31.004 (S) [libx264 @ 0x55648344e8c0] profile Constrained Baseline, level 4.0, 4:2:0, 8-bit
+2023-01-03 09:26:31.005 (S) [libx264 @ 0x55648344e8c0] 264 - core 164 r3095 baee400 - H.264/MPEG-4 AVC codec - Copyleft 2003-2022 - http://www.videolan.org/x264.html - options: cabac=0 ref=1 deblock=0:0:0 analyse=0:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=0 weightp=0 keyint=250 keyint_min=25 scenecut=0 intra_refresh=0 rc=crf mbtree=0 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=0
+2023-01-03 09:26:31.005 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:26:31.005 (I) [Muxer::AddStream] Using codec aac (AAC (Advanced Audio Coding)).
+2023-01-03 09:26:31.005 (I) [AudioEncoder::PrepareStream] Using sample format f32p.
+2023-01-03 09:26:31.006 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:26:31.006 (I) [Muxer::MuxerThread] Muxer thread started.
+2023-01-03 09:26:31.006 (I) [PageRecord::StartOutput] Started output.
+2023-01-03 09:26:31.006 (I) [Synchronizer::SynchronizerThread] Synchronizer thread started.
+2023-01-03 09:26:31.020 (I) [FastResampler::Resample] Resample ratio is 1.0000 (was 0.0000).
+2023-01-03 09:29:00.561 (I) [PageRecord::StopOutput] Stopping output ...
+2023-01-03 09:29:00.561 (I) [PageRecord::StopOutput] Stopped output.
+2023-01-03 09:29:00.561 (I) [PageRecord::StopInput] Stopping input ...
+2023-01-03 09:29:00.561 (I) [X11Input::~X11Input] Stopping input thread ...
+2023-01-03 09:29:00.587 (I) [X11Input::InputThread] Input thread stopped.
+2023-01-03 09:29:00.589 (I) [ALSAInput::~ALSAInput] Stopping input thread ...
+2023-01-03 09:29:00.598 (I) [ALSAInput::InputThread] Input thread stopped.
+2023-01-03 09:29:00.598 (I) [PageRecord::StopInput] Stopped input.
+2023-01-03 09:29:00.598 (I) [PageRecord::StopPage] Stopping page ...
+2023-01-03 09:29:00.598 (I) [Synchronizer::~Synchronizer] Stopping synchronizer thread ...
+2023-01-03 09:29:00.610 (I) [Synchronizer::SynchronizerThread] Synchronizer thread stopped.
+2023-01-03 09:29:00.611 (I) [Muxer::~Muxer] Stopping encoders ...
+2023-01-03 09:29:00.611 (I) [Muxer::~Muxer] Waiting for muxer thread to stop ...
+2023-01-03 09:29:00.615 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:29:00.619 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:29:00.631 (I) [Muxer::MuxerThread] Muxer thread stopped.
+2023-01-03 09:29:00.637 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] frame I:18    Avg QP:19.83  size:370387
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] frame P:4459  Avg QP:22.95  size:123783
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] mb I  I16..4: 100.0%  0.0%  0.0%
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] mb P  I16..4: 15.1%  0.0%  0.0%  P16..4: 57.9%  0.0%  0.0%  0.0%  0.0%    skip:27.0%
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] coded y,uvDC,uvAC intra: 69.9% 36.2% 15.0% inter: 50.5% 23.0% 3.5%
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] i16 v,h,dc,p: 20% 42% 24% 13%
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] i8c dc,h,v,p: 46% 35% 12%  7%
+2023-01-03 09:29:00.640 (S) [libx264 @ 0x55648344e8c0] kb/s:29945.94
+2023-01-03 09:29:00.641 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:29:00.641 (S) [aac @ 0x5564835f9b80] Qavg: 21752.164
+2023-01-03 09:29:00.641 (S) [aac @ 0x5564835f9b80] 2 frames left in the queue on closing
+2023-01-03 09:29:00.687 (I) [PageRecord::StopPage] Stopped page.
+2023-01-03 09:29:45.624 (I) [PageRecord::StartPage] Starting page ...
+2023-01-03 09:29:45.624 (I) [PageRecord::StartPage] Started page.
+2023-01-03 09:29:45.624 (I) [PageRecord::StartInput] Starting input ...
+2023-01-03 09:29:45.625 (I) [X11Input::Init] Using X11 shared memory.
+2023-01-03 09:29:45.625 (I) [X11Input::Init] Detecting screen configuration ...
+2023-01-03 09:29:45.625 (I) [X11Input::Init] Screen 0: x1 = 0, y1 = 0, x2 = 3440, y2 = 1440
+2023-01-03 09:29:45.625 (I) [X11Input::Init] Screen 1: x1 = 3440, y1 = 360, x2 = 5360, y2 = 1440
+2023-01-03 09:29:45.625 (I) [X11Input::Init] Dead space 0: x1 = 3440, y1 = 0, x2 = 5360, y2 = 360
+2023-01-03 09:29:45.625 (I) [X11Input::InputThread] Input thread started.
+2023-01-03 09:29:45.626 (I) [ALSAInput::InputThread] Using sample format s16.
+2023-01-03 09:29:45.626 (I) [PageRecord::StartInput] Started input.
+2023-01-03 09:29:45.626 (I) [ALSAInput::InputThread] Input thread started.
+2023-01-03 09:29:56.504 (I) [PageRecord::StartOutput] Starting output ...
+2023-01-03 09:29:56.504 (I) [PageRecord::StartOutput] Output file: /media/me/SOFT/DESKTOP/REC-2023-01-03_09.29.56.mp4
+2023-01-03 09:29:56.505 (I) [Muxer::Init] Using format mp4 (MP4 (MPEG-4 Part 14)).
+2023-01-03 09:29:56.507 (I) [Muxer::AddStream] Using codec libx264 (libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10).
+2023-01-03 09:29:56.508 (I) [VideoEncoder::PrepareStream] Using pixel format nv12.
+2023-01-03 09:29:56.508 (S) [libx264 @ 0x5564836da400] using SAR=1/1
+2023-01-03 09:29:56.514 (S) [libx264 @ 0x5564836da400] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+2023-01-03 09:29:56.519 (S) [libx264 @ 0x5564836da400] profile Constrained Baseline, level 4.0, 4:2:0, 8-bit
+2023-01-03 09:29:56.519 (S) [libx264 @ 0x5564836da400] 264 - core 164 r3095 baee400 - H.264/MPEG-4 AVC codec - Copyleft 2003-2022 - http://www.videolan.org/x264.html - options: cabac=0 ref=1 deblock=0:0:0 analyse=0:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=0 weightp=0 keyint=250 keyint_min=25 scenecut=0 intra_refresh=0 rc=crf mbtree=0 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=0
+2023-01-03 09:29:56.519 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:29:56.519 (I) [Muxer::AddStream] Using codec aac (AAC (Advanced Audio Coding)).
+2023-01-03 09:29:56.519 (I) [AudioEncoder::PrepareStream] Using sample format f32p.
+2023-01-03 09:29:56.520 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:29:56.520 (I) [Muxer::MuxerThread] Muxer thread started.
+2023-01-03 09:29:56.520 (I) [PageRecord::StartOutput] Started output.
+2023-01-03 09:29:56.520 (I) [Synchronizer::SynchronizerThread] Synchronizer thread started.
+2023-01-03 09:29:56.546 (I) [FastResampler::Resample] Resample ratio is 1.0000 (was 0.0000).
+2023-01-03 09:45:49.075 (E) [X11Input::InputThread] Error: Can't get image (using shared memory)!
+    Usually this means the recording area is not completely inside the screen. Or did you change the screen resolution?
+2023-01-03 09:45:49.076 (E) [X11Input::InputThread] Exception 'X11Exception' in input thread.
+2023-01-03 09:45:50.074 (S) QObject::connect: No such signal QScreen::geometryChanged()
+2023-01-03 09:45:50.074 (S) QObject::connect: No such signal QScreen::physicalDotsPerInchChanged()
+2023-01-03 09:45:50.089 (W) [Synchronizer::ReadAudioSamples] Warning: Not enough audio samples, inserting silence to keep the audio in sync with the video.
+2023-01-03 09:46:09.896 (W) [Synchronizer::ReadAudioSamples] Warning: Audio buffer overflow, starting new segment to keep the audio in sync with the video (some video and/or audio may be lost). The video input seems to be too slow.
+2023-01-03 09:47:45.201 (I) [PageRecord::StopOutput] Stopping output ...
+2023-01-03 09:47:45.202 (I) [PageRecord::StopOutput] Stopped output.
+2023-01-03 09:47:45.202 (I) [PageRecord::StopInput] Stopping input ...
+2023-01-03 09:47:45.202 (I) [X11Input::~X11Input] Stopping input thread ...
+2023-01-03 09:47:45.209 (I) [ALSAInput::~ALSAInput] Stopping input thread ...
+2023-01-03 09:47:45.217 (I) [ALSAInput::InputThread] Input thread stopped.
+2023-01-03 09:47:45.218 (I) [PageRecord::StopInput] Stopped input.
+2023-01-03 09:47:45.218 (I) [PageRecord::StopPage] Stopping page ...
+2023-01-03 09:47:45.218 (I) [Synchronizer::~Synchronizer] Stopping synchronizer thread ...
+2023-01-03 09:47:45.234 (I) [Synchronizer::SynchronizerThread] Synchronizer thread stopped.
+2023-01-03 09:47:45.237 (I) [Muxer::~Muxer] Stopping encoders ...
+2023-01-03 09:47:45.237 (I) [Muxer::~Muxer] Waiting for muxer thread to stop ...
+2023-01-03 09:47:45.254 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:47:45.254 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:47:45.273 (I) [Muxer::MuxerThread] Muxer thread stopped.
+2023-01-03 09:47:45.287 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] frame I:115   Avg QP:20.62  size:360807
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] frame P:28447 Avg QP:23.50  size:133814
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] mb I  I16..4: 100.0%  0.0%  0.0%
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] mb P  I16..4: 20.8%  0.0%  0.0%  P16..4: 64.2%  0.0%  0.0%  0.0%  0.0%    skip:15.0%
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] coded y,uvDC,uvAC intra: 68.0% 32.6% 12.7% inter: 58.4% 25.8% 3.5%
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] i16 v,h,dc,p: 19% 41% 26% 14%
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] i8c dc,h,v,p: 48% 34% 11%  6%
+2023-01-03 09:47:45.289 (S) [libx264 @ 0x5564836da400] kb/s:32331.37
+2023-01-03 09:47:45.289 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:47:45.289 (S) [aac @ 0x5564834c7f00] Qavg: 3669.453
+2023-01-03 09:47:45.289 (S) [aac @ 0x5564834c7f00] 2 frames left in the queue on closing
+2023-01-03 09:47:45.519 (I) [PageRecord::StopPage] Stopped page.
+2023-01-03 09:48:11.606 (I) [PageRecord::StartPage] Starting page ...
+2023-01-03 09:48:11.606 (I) [PageRecord::StartPage] Started page.
+2023-01-03 09:48:11.606 (I) [PageRecord::StartInput] Starting input ...
+2023-01-03 09:48:11.607 (I) [X11Input::Init] Using X11 shared memory.
+2023-01-03 09:48:11.607 (I) [X11Input::Init] Detecting screen configuration ...
+2023-01-03 09:48:11.607 (I) [X11Input::Init] Screen 0: x1 = 0, y1 = 0, x2 = 3440, y2 = 1440
+2023-01-03 09:48:11.607 (I) [X11Input::Init] Screen 1: x1 = 3440, y1 = 360, x2 = 5360, y2 = 1440
+2023-01-03 09:48:11.607 (I) [X11Input::Init] Dead space 0: x1 = 3440, y1 = 0, x2 = 5360, y2 = 360
+2023-01-03 09:48:11.607 (I) [X11Input::InputThread] Input thread started.
+2023-01-03 09:48:11.608 (I) [ALSAInput::InputThread] Using sample format s16.
+2023-01-03 09:48:11.609 (I) [PageRecord::StartInput] Started input.
+2023-01-03 09:48:11.610 (I) [ALSAInput::InputThread] Input thread started.
+2023-01-03 09:48:14.293 (I) [PageRecord::StartOutput] Starting output ...
+2023-01-03 09:48:14.293 (I) [PageRecord::StartOutput] Output file: /media/me/SOFT/DESKTOP/REC-2023-01-03_09.48.14.mp4
+2023-01-03 09:48:14.293 (I) [Muxer::Init] Using format mp4 (MP4 (MPEG-4 Part 14)).
+2023-01-03 09:48:14.293 (I) [Muxer::AddStream] Using codec libx264 (libx264 H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10).
+2023-01-03 09:48:14.294 (I) [VideoEncoder::PrepareStream] Using pixel format nv12.
+2023-01-03 09:48:14.294 (S) [libx264 @ 0x5564836a3140] using SAR=1/1
+2023-01-03 09:48:14.296 (S) [libx264 @ 0x5564836a3140] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX
+2023-01-03 09:48:14.299 (S) [libx264 @ 0x5564836a3140] profile Constrained Baseline, level 5.1, 4:2:0, 8-bit
+2023-01-03 09:48:14.299 (S) [libx264 @ 0x5564836a3140] 264 - core 164 r3095 baee400 - H.264/MPEG-4 AVC codec - Copyleft 2003-2022 - http://www.videolan.org/x264.html - options: cabac=0 ref=1 deblock=0:0:0 analyse=0:0 me=dia subme=0 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=8 lookahead_threads=1 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=0 weightp=0 keyint=250 keyint_min=25 scenecut=0 intra_refresh=0 rc=crf mbtree=0 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=0
+2023-01-03 09:48:14.300 (I) [Muxer::AddStream] Using codec aac (AAC (Advanced Audio Coding)).
+2023-01-03 09:48:14.300 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:48:14.300 (I) [AudioEncoder::PrepareStream] Using sample format f32p.
+2023-01-03 09:48:14.300 (I) [BaseEncoder::EncoderThread] Encoder thread started.
+2023-01-03 09:48:14.300 (I) [PageRecord::StartOutput] Started output.
+2023-01-03 09:48:14.300 (I) [Muxer::MuxerThread] Muxer thread started.
+2023-01-03 09:48:14.300 (I) [Synchronizer::SynchronizerThread] Synchronizer thread started.
+2023-01-03 09:48:14.308 (I) [FastResampler::Resample] Resample ratio is 1.0000 (was 0.0000).
+2023-01-03 09:49:25.239 (I) [PageRecord::StopOutput] Stopping output ...
+2023-01-03 09:49:25.239 (I) [PageRecord::StopOutput] Stopped output.
+2023-01-03 09:49:25.239 (I) [PageRecord::StopInput] Stopping input ...
+2023-01-03 09:49:25.239 (I) [X11Input::~X11Input] Stopping input thread ...
+2023-01-03 09:49:25.253 (I) [X11Input::InputThread] Input thread stopped.
+2023-01-03 09:49:25.262 (I) [ALSAInput::~ALSAInput] Stopping input thread ...
+2023-01-03 09:49:25.263 (I) [ALSAInput::InputThread] Input thread stopped.
+2023-01-03 09:49:25.264 (I) [PageRecord::StopInput] Stopped input.
+2023-01-03 09:49:25.264 (I) [PageRecord::StopPage] Stopping page ...
+2023-01-03 09:49:25.264 (I) [Synchronizer::~Synchronizer] Stopping synchronizer thread ...
+2023-01-03 09:49:25.282 (I) [Synchronizer::SynchronizerThread] Synchronizer thread stopped.
+2023-01-03 09:49:25.283 (I) [Muxer::~Muxer] Stopping encoders ...
+2023-01-03 09:49:25.283 (I) [Muxer::~Muxer] Waiting for muxer thread to stop ...
+2023-01-03 09:49:25.291 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:49:25.299 (I) [BaseEncoder::EncoderThread] Encoder thread stopped.
+2023-01-03 09:49:25.304 (I) [Muxer::MuxerThread] Muxer thread stopped.
+2023-01-03 09:49:25.306 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] frame I:9     Avg QP:16.67  size:1515407
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] frame P:2109  Avg QP:19.49  size:239891
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] mb I  I16..4: 100.0%  0.0%  0.0%
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] mb P  I16..4:  3.7%  0.0%  0.0%  P16..4: 21.9%  0.0%  0.0%  0.0%  0.0%    skip:74.4%
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] coded y,uvDC,uvAC intra: 84.5% 54.7% 28.7% inter: 19.2% 10.4% 2.7%
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] i16 v,h,dc,p: 22% 42% 23% 13%
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] i8c dc,h,v,p: 40% 35% 15%  9%
+2023-01-03 09:49:25.312 (S) [libx264 @ 0x5564836a3140] kb/s:58874.66
+2023-01-03 09:49:25.312 (I) [BaseEncoder::~BaseEncoder] Stopping encoder thread ...
+2023-01-03 09:49:25.312 (S) [aac @ 0x5564834210c0] Qavg: 61910.512
+2023-01-03 09:49:25.312 (S) [aac @ 0x5564834210c0] 2 frames left in the queue on closing
+2023-01-03 09:49:25.352 (I) [PageRecord::StopPage] Stopped page.
+2023-01-03 09:51:14.599 (I) ==================== SSR stopped ====================

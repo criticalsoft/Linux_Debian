@@ -1,0 +1,15 @@
+Cannot Mount /efi/boot/ After Kernel Upgrade (Not The Problem Of fsck Or chkdsk)
+sudo apt purge linux-image-#.##
+sudo apt install linux-image-amd64
+#sudo update-grub
+
+
+
+
+#FIX:VirtualBox 3D Acceleration Crash
+#FIX:Unreal Engine Crash
+#FIX:OverWatch With WineHQ Staging_Missing Font, Missing Element, Color Block
+Install Graphic Card Driver
+
+
+

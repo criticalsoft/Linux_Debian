@@ -1,0 +1,122 @@
+DisplayPort-0 Height 1440=742
+DisplayPort-0 Width 3440=1412
+DisplayPort-0 XPosition=219
+DisplayPort-0 YPosition=408
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABYQAAAK2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+
+[Desktop Entry]
+DefaultProfile=LIVE.profile
+
+[Favorite Profiles]
+Favorites=ME.profile
+
+[FileDialogSize]
+DisplayPort-0 Height 1440=809
+DisplayPort-0 Width 3440=1388
+Height 1440=809
+Width 3440=1388
+
+[General]
+ConfigVersion=1
+
+[KFileDialog Settings]
+Recent Files[$e]=Text File.txt,file:$HOME/Desktop/Text File.txt
+Recent URLs[$e]=file:$HOME/Desktop/,file:$HOME/,file:$HOME/Documents/
+detailViewIconSize=16
+
+[KonsoleWindow]
+AllowMenuAccelerators=true
+FocusFollowsMouse=true
+
+[MainWindow]
+2 screens: Height=740
+2 screens: Width=1235
+2 screens: XPosition=4
+2 screens: YPosition=477
+DisplayPort-0 Height 1440=688
+DisplayPort-0 Width 3440=1056
+DisplayPort-0 XPosition=1414
+DisplayPort-0 YPosition=606
+DisplayPort-2=DisplayPort-2
+DisplayPort-2 DisplayPort-3=DisplayPort-3
+DisplayPort-2 DisplayPort-3 Height 1080=969
+DisplayPort-2 DisplayPort-3 Height 1440=1329
+DisplayPort-2 DisplayPort-3 Height 1920x1080 DisplayPort-3=969
+DisplayPort-2 DisplayPort-3 Height 3440x1440 DisplayPort-2=1061
+DisplayPort-2 DisplayPort-3 Width 1920=1196
+DisplayPort-2 DisplayPort-3 Width 1920x1080 DisplayPort-3=1912
+DisplayPort-2 DisplayPort-3 Width 3440=1494
+DisplayPort-2 DisplayPort-3 Width 3440x1440 DisplayPort-2=1320
+DisplayPort-2 DisplayPort-3 Window-Maximized 1920x1080 DisplayPort-3=true
+DisplayPort-2 DisplayPort-3 XPosition=139
+DisplayPort-2 DisplayPort-3 XPosition 1920x1080 DisplayPort-3=3444
+DisplayPort-2 DisplayPort-3 XPosition 3440x1440 DisplayPort-2=1378
+DisplayPort-2 DisplayPort-3 YPosition=67
+DisplayPort-2 DisplayPort-3 YPosition 1920x1080 DisplayPort-3=427
+DisplayPort-2 DisplayPort-3 YPosition 3440x1440 DisplayPort-2=335
+DisplayPort-2 Height 1440=1078
+DisplayPort-2 Height 3440x1440 DisplayPort-2=740
+DisplayPort-2 Width 3440=1364
+DisplayPort-2 Width 3440x1440 DisplayPort-2=1235
+DisplayPort-2 XPosition=781
+DisplayPort-2 XPosition 3440x1440 DisplayPort-2=499
+DisplayPort-2 YPosition=318
+DisplayPort-2 YPosition 3440x1440 DisplayPort-2=534
+Height 1080=696
+Height 1440=1103
+Height 1824=1231
+Height 900=523
+Height 912=631
+Height 975=749
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAQAAAAAAAAAAAAAAAPwCAAAAAvsAAAAiAFEAdQBpAGMAawBDAG8AbQBtAGEAbgBkAHMARABvAGMAawAAAAAA/////wAAAcEA////+wAAABwAUwBTAEgATQBhAG4AYQBnAGUAcgBEAG8AYwBrAAAAAAD/////AAABTQD///8AAATTAAACtAAAAAQAAAAEAAAACAAAAAj8AAAAAQAAAAIAAAACAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAABwAcwBlAHMAcwBpAG8AbgBUAG8AbwBsAGIAYQByAQAAAoL/////AAAAAAAAAAA=
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Virtual1=Virtual1
+Virtual1 Height 1674x1112 Virtual1=740
+Virtual1 Height 1674x954 Virtual1=740
+Virtual1 Width 1674x1112 Virtual1=1114
+Virtual1 Width 1674x954 Virtual1=1235
+Virtual1 XPosition 1674x1112 Virtual1=308
+Virtual1 XPosition 1674x954 Virtual1=308
+Virtual1 YPosition 1674x1112 Virtual1=328
+Virtual1 YPosition 1674x954 Virtual1=170
+Width 1368=998
+Width 1600=1047
+Width 1920=1033
+Width 2560=1252
+Width 2736=1159
+Width 3440=1480
+
+[Notification Messages]
+CloseAllEmptyTabs=true
+CloseAllTabs=true
+CloseSingleTab=true
+ShowPasteUnprintableWarning=false
+
+[PrintOptions]
+PrinterFriendly=true
+ScaleOutput=true
+
+[SaveHistory Settings]
+Recent URLs[$e]=file:$HOME/Desktop
+
+[Shortcut Schemes]
+Current Scheme=Default
+
+[SplitView]
+SplitViewVisibility=AlwaysShowSplitHeader
+
+[TabBar]
+CloseTabOnMiddleMouseButton=true
+NewTabBehavior=PutNewTabAfterCurrentTab
+NewTabButton=true
+ShowQuickButtons=true
+TabBarPosition=Top
+TabBarVisibility=AlwaysShowTabBar
+
+[UiSettings]
+ColorScheme=

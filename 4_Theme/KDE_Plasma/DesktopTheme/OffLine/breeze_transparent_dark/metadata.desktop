@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Breeze Transparent Dark
+
+X-KDE-PluginInfo-Author=Andreyorst
+X-KDE-PluginInfo-Email=andreyorst@gmail.com
+X-KDE-PluginInfo-Name=breeze_transparent_dark
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=2.0
+saturation=1.7

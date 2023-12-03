@@ -1,0 +1,333 @@
+[CTags]
+GlobalCommand=ctags -R --c++-types=+px --extra=+q --excmd=pattern --exclude=Makefile --exclude=.
+GlobalNumTargets=0
+
+[Desktop Entry]
+DefaultProfile=ME.profile
+
+[Favorite Profiles]
+Favorites=
+
+[FileDialogSize]
+Height 1080=791
+Width 1920=1303
+
+[General]
+Allow Tab Scrolling=false
+Auto Hide Tabs=false
+Close After Last=true
+Close documents with window=true
+Config Revision=10
+Days Meta Infos=10
+Diff Show Style=0
+Elide Tab Text=false
+Expand Tabs=true
+Icon size for left and right sidebar buttons=32
+Last Session=Test
+Modified Notification=false
+Mouse back button action=0
+Mouse forward button action=0
+Output History Limit=100
+Quick Open List Mode=0
+Quick Open Search Mode=0
+Quickopen Filter Mode=3
+Quickopen List Mode=true
+Recent File List Entry Count=10
+Restore Window Configuration=true
+SDI Mode=false
+Save Meta Infos=true
+Show Full Path in Title=true
+Show Menu Bar=true
+Show Status Bar=true
+Show Symbol In Navigation Bar=true
+Show Tab Bar=true
+Show Tabs Close Button=true
+Show Url Nav Bar=true
+Show output view for message type=1
+Show text for left and right sidebar=false
+Show welcome view for new window=true
+Startup Session=manual
+Stash new unsaved files=true
+Stash unsaved file changes=false
+Sync section size with tab positions=false
+Tab Double Click New Document=true
+Tab Middle Click Close Document=true
+Tabbar Tab Limit=0
+
+[KFileDialog Settings]
+Recent Files[$e]=settings.json,file:///media/me/SOFT/System/Linux_Debian/6_Text_Browser/Kate/THEME/Glass_Dark.theme
+Recent URLs[$e]=file:$HOME/.config/,file:$HOME/Desktop/,file:$HOME/,file:///media/me/SOFT/System/Linux_Debian/6_Text_Browser/Kate/THEME/
+detailViewIconSize=16
+iconViewIconSize=48
+listViewIconSize=100
+
+[KPropertiesDialog]
+DisplayPort-0 Height 1440=611
+DisplayPort-0 Width 3440=536
+
+[KTextEditor Document]
+Allow End of Line Detection=true
+Auto Detect Indent=true
+Auto Reload If State Is In Version Control=true
+Auto Save=false
+Auto Save Interval=0
+Auto Save On Focus Out=false
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Camel Cursor=true
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=4096
+Newline at End of File=false
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=false
+Color Theme=Breeze_Dark_Glass_80
+Font=Noto Mono,14,-1,5,50,0,0,0,0,0
+Line Height Multiplier=1
+Schema=Solarized (dark)
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=true
+Auto Center Lines=0
+Auto Completion=true
+Auto Completion Preselect First Entry=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Enable Tab completion=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=true
+Input Mode=0
+Keyword Completion=true
+Line Modification=true
+Line Numbers=true
+Max Clipboard History Entries=20
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=true
+Multiple Cursor Modifier=134217728
+Persistent Selection=false
+Scroll Bar Marks=true
+Scroll Bar Mini Map All=false
+Scroll Bar Mini Map Width=100
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Shoe Line Ending Type in Statusbar=false
+Show Documentation With Completion=true
+Show File Encoding=true
+Show Focus Frame Around Editor=true
+Show Folding Icons On Hover Only=true
+Show Line Count=true
+Show Scrollbars=0
+Show Statusbar Dictionary=true
+Show Statusbar Highlighting Mode=true
+Show Statusbar Input Mode=true
+Show Statusbar Line Column=true
+Show Statusbar Tab Settings=true
+Show Word Count=true
+Smart Copy Cut=true
+Statusbar Line Column Compact Mode=true
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
+[KTextEditor::Search]
+Replace History=$HOME,$DATE,OCP_CRT,.Xmodmap,Mod4,Mod4+,rm -rf ,i3,/sway/,SwayWM,sway,#FFFFFF,move container to workspace,$x_send,Q,mod+,,konsole,Konsole_Glass,./config/,./CONFIG/config/,|cut -d '=' -f2-,80,OffLine,/QT/,/KDE_Plasma/,480x60,320x60,xwininfo,wininfo,#000000,otter-browser-*/,alex,Guake,../../CONFIG/635qevg8.Default User/,sudo pacman --noconfirm -S ,cp -r ~,cp -r ,cp -r,krita,kdenlive,gwenview,./Config/,$HOME_CONFIG_AUTOSTART/,$HOME_CONFIG/,/run/media/$USER/,sudo pacman --noconfirm -R ,/,./KDE/config/,sudo pacman -S\s
+Search History=20,50,80, --,Full length epic key visual\\, Luxury black and gundam\\, dynamic fighting action scene\\, extremely detailed 8k 16k 32k Super-Resolution cgi\\, cinematic composition\\, cinematic lighting\\, advanced light visual effects\\, reflective surfaces\\, lens flare --style 4b --q 2 --c 100 --ar 3:2 --s 1000,wayland-protocols,build-dep,scale,$a_switch,i3-workspace-switch,dunst,Play.sh,rm -r,/home/$USER,kdesrc-build ,NOTI,$(date +"%Y%m%d"),Breeze_Dark_Glass_50,cool-retro-term,Open_Cubic_Player,kate,Light_C,me,xmodmap,.xmodmap,~/.config/autostart/,iconv,/sway/,color,split,+tab,$x_switch,i3-wk-s,.name,change_workspace,arg,switch_workspace,get_workspace,$mod,$mod+,sleep,TODO,+Tab,+g,xtrlock,slash,semicolon,$mod Mod4,+esca,exit,mod+Caps_Lock,rename,exec=,$mod+1,Exec=,Exec,$mod+F1,exec,desktop,launch_cairo-dock_multiple_screen.sh,multip,restart,rm -r ,default_border,border,sway,i3/,i3,/i3/,class="plasmashell", \\\\,swayWM,i3-msg,plasmashell,control+shift+v,diodon,control+v,+v,manag,bar,i3.git,con,border normal,height,gaps,#FF7733,#0,didion,KP_Enter,krunner,CapsLock,COMPTON,+r,$x_send,move container to workspace,i3-wk-switch,parts,num,0-9,['name']
+
+[KateSQLPlugin]
+SaveConnections=true
+
+[KateSQLPlugin][OutputCustomization][blob]
+backgroundColor=35,38,41
+font=Noto Sans,14,-1,5,50,0,0,0,0,0
+foregroundColor=239,240,241
+
+[KateSQLPlugin][OutputCustomization][bool]
+backgroundColor=35,38,41
+font=Noto Sans,14,-1,5,50,0,0,0,0,0
+foregroundColor=239,240,241
+
+[KateSQLPlugin][OutputCustomization][datetime]
+backgroundColor=35,38,41
+font=Noto Sans,14,-1,5,50,0,0,0,0,0
+foregroundColor=239,240,241
+
+[KateSQLPlugin][OutputCustomization][null]
+backgroundColor=35,38,41
+font=Noto Sans,14,-1,5,50,0,0,0,0,0
+foregroundColor=239,240,241
+
+[KateSQLPlugin][OutputCustomization][number]
+backgroundColor=35,38,41
+font=Noto Sans,14,-1,5,50,0,0,0,0,0
+foregroundColor=239,240,241
+
+[KateSQLPlugin][OutputCustomization][text]
+backgroundColor=35,38,41
+font=Noto Sans,14,-1,5,50,0,0,0,0,0
+foregroundColor=239,240,241
+
+[Konsole]
+AutoSyncronize=true
+KonsoleEscKeyBehaviour=true
+KonsoleEscKeyExceptions=vi,vim,nvim
+RemoveExtension=false
+RunPrefix=
+SetEditor=false
+
+[MainWindow]
+DP-3 DP-4 Height 3440x1440=1188
+DP-3 DP-4 Height 3440x1440 DP-3=1174
+DP-3 DP-4 Width 3440x1440=1794
+DP-3 DP-4 Width 3440x1440 DP-3=1128
+DP-3 Height 3440x1440 DP-3=1268
+DP-3 Width 3440x1440 DP-3=1265
+DP-4 DP-3 Height 3440x1440=1027
+DP-4 DP-3 Width 3440x1440=1493
+DisplayPort-0 Height 1440=1124
+DisplayPort-0 Width 3440=1377
+DisplayPort-0 XPosition=447
+DisplayPort-0 YPosition=194
+DisplayPort-2 DisplayPort-3 Height 1920x1080 DisplayPort-3=1025
+DisplayPort-2 DisplayPort-3 Height 3440x1440=1273
+DisplayPort-2 DisplayPort-3 Height 3440x1440 DisplayPort-2=1211
+DisplayPort-2 DisplayPort-3 Width 1920x1080 DisplayPort-3=1916
+DisplayPort-2 DisplayPort-3 Width 3440x1440=1369
+DisplayPort-2 DisplayPort-3 Width 3440x1440 DisplayPort-2=1367
+DisplayPort-2 Height 3440x1440=1083
+DisplayPort-2 Height 3440x1440 DisplayPort-2=1091
+DisplayPort-2 Width 3440x1440=1546
+DisplayPort-2 Width 3440x1440 DisplayPort-2=1902
+DisplayPort-3 Height 1440=1028
+DisplayPort-3 Height 3440x1440=696
+DisplayPort-3 Width 3440=1121
+DisplayPort-3 Width 3440x1440=1519
+DisplayPort-3 XPosition=872
+DisplayPort-3 YPosition=200
+Height 1080=628
+Height 1440=1036
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABGEAAAPaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1073
+Width 3440=1192
+
+[MainWindow][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[Notification Messages]
+HideMenuBarWarning=false
+closeAll=false
+kate_close_modonhd_1=false
+kate_close_modonhd_2=false
+kate_close_modonhd_3=false
+
+[PluginSymbolViewer]
+ExpandTree=false
+SortSymbols=false
+TreeView=false
+ViewTypes=false
+
+[Shortcut Schemes]
+Current Scheme=Default
+
+[Shortcuts]
+kate_mdi_toolview_kate_plugin_katesearch=none
+kate_mdi_toolview_kate_private_plugin_katefiletreeplugin=none
+kate_mdi_toolview_kate_private_plugin_katekonsoleplugin=none
+
+[UiSettings]
+ColorScheme=Default
+
+[filebrowser]
+toolbar actions=bookmarks,sync_dir,back,up,forward,reload,home,show hidden,configure
+
+[filetree]
+editShade=211,190,222
+listMode=false
+shadingEnabled=true
+showCloseButton=false
+showFullPathOnRoots=false
+showToolbar=true
+sortRole=0
+viewShade=219,170,213
+
+[lspclient]
+AutoHover=true
+CompletionDocumentation=true
+Diagnostics=true
+DiagnosticsHighlight=true
+DiagnosticsHover=true
+DiagnosticsMark=true
+DiagnosticsSize=1024
+IncrementalSync=false
+Messages=true
+MessagesAutoSwitch=1
+ReferencesDeclaration=true
+SemanticHighlighting=false
+ServerConfiguration=file:///home/me/.config/kate/lspclient/settings.json
+SymbolDetails=false
+SymbolExpand=true
+SymbolSort=false
+SymbolTree=true
+TypeFormatting=false
+
+[project]
+autorepository=git,subversion,mercurial
+gitStatusDoubleClick=3
+gitStatusNumStat=true
+gitStatusSingleClick=1
+index=true
+indexDirectory=
+multiProjectCompletion=false
+multiProjectGoto=false

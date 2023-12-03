@@ -1,0 +1,14 @@
+[OSD]
+Enabled=true
+
+[PlasmaToolTips]
+Delay=0.7
+
+[Theme]
+name=Diamond
+
+[Units]
+longDuration=0
+
+[Wallpapers]
+usersWallpapers=/home/live/Wallpaper/3440_1440.xcf,/home/live/Wallpaper/3840_2160.xcf,/home/live/Wallpaper/1920_1080.xcf
