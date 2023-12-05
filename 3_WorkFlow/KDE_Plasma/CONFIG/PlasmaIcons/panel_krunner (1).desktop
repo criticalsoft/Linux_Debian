@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=KRunner Panel
+Exec=krunner
+Icon=run_
+Type=Application
+StartupNotify=false

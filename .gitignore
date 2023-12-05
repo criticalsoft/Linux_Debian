@@ -1,0 +1,69 @@
+![Rr][Ee][Aa][Dd][Mm][Ee].txt
+
+!*.[Ii][Cc][Oo]
+!*.[Dd]irectory
+!*.[Ii][Nn][Ii]
+
+!*.[Uu][Rr][Ll]
+!*.[Dd]esk[Tt]op
+!*.[Ww]eb[Ll]oc
+
+!*.[Ss][Hh]
+!*.[Pp][Ss]1
+
+
+
+
+# *
+# SYNC.sh
+# .gitignore
+
+_*/
+*FIX*
+*STORE*
+*TODO*
+*WTF*
+*BlackList*
+*[Ss]creen[Ss]hot*
+
+
+
+
+# [Cc]onfig_[0-9]*/
+# [Cc]onfig_[0-9]*/**
+# PlasmaIcons_[0-9]*/
+# PlasmaIcons_[0-9]*/**
+# tilda_[0-9]*/
+# tilda_[0-9]*/**
+*_[0-9]*/
+*_[0-9]*/**
+!Breeze_*_Glass_*/
+!Breeze_*_Glass_*/**
+!KvArc_*_Glass_*/
+!KvArc_*_Glass_*/**
+!linux_*_glass_*/
+!linux_*_glass_*/**
+
+
+
+
+*.img
+*.iso
+debian-live-testing-*.*
+live-image-*.*
+
+*.deb
+*.AppImage
+*.run
+*.vbox-extpack
+
+*.tar.*
+!mint-xfce-*.tar.*
+!Yosa-Max-*.tar.*
+!smartvideowallpaper.tar.*
+
+*.gpg
+*.zip
+
+
+

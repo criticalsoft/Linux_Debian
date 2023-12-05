@@ -1,0 +1,365 @@
+[Default Item Styles - Schema Breeze Dark]
+Error=ffda4453,ffda4453,0,,,1,-,-,,---
+
+[Default Item Styles - Schema KDE]
+Alert=ffda4453,ffda4453,1,,,,ff4d1f24,-,,---
+Annotation=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Attribute=ff2980b9,fffdbc4b,,,,,-,-,,---
+Base-N Integer=fff67400,fff67400,,,,,-,-,,---
+Built-in=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Character=ff3daee9,fffcfcfc,,,,,-,-,,---
+Comment=ffbdc3c7,ffeff0f1,,,,,-,-,,---
+Comment Variable=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Constant=ffeff0f1,ffeff0f1,1,,,,-,-,,---
+Control Flow=ffeff0f1,ffeff0f1,1,,,,-,-,,---
+Data Type=ff2980b9,fffdbc4b,,,,,-,-,,---
+Decimal/Value=fff67400,fff67400,,,,,-,-,,---
+Documentation=ffda4453,ffda4453,,,,,-,-,,---
+Error=ffda4453,ffda4453,,,,1,-,-,,---
+Extension=ff0095ff,ffeff0f1,1,,,,-,-,,---
+Floating Point=fff67400,fff67400,,,,,-,-,,---
+Function=fff67400,fff67400,,,,,-,-,,---
+Import=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Information=fff67400,fff67400,,,,,-,-,,---
+Keyword=ffeff0f1,ffeff0f1,1,,,,-,-,,---
+Normal=ffeff0f1,ffeff0f1,,,,,-,-,,---
+Operator=ffeff0f1,ffeff0f1,,,,,-,-,,---
+Others=ff27ae60,ff27ae60,,,,,-,-,,---
+Preprocessor=ff27ae60,ff27ae60,,,,,-,-,,---
+Region Marker=ff2980b9,fffdbc4b,,,,,ff153042,-,,---
+Special Character=ff3daee9,fffcfcfc,,,,,-,-,,---
+Special String=ffda4453,ffda4453,,,,,-,-,,---
+String=ffda4453,ffda4453,,,,,-,-,,---
+Variable=ff2980b9,fffdbc4b,,,,,-,-,,---
+Verbatim String=ffda4453,ffda4453,,,,,-,-,,---
+Warning=ffda4453,ffda4453,,,,,-,-,,---
+
+[Default Item Styles - Schema Normal]
+Error=ffbf0303,ff9c0e0e,,0,,1,-,-,,---
+
+[Default Item Styles - Schema Printing]
+Error=ffbf0303,ff9c0e0e,,0,,1,-,-,,---
+
+[Default Item Styles - Schema Solarized (dark)]
+Error=ffdc322f,ffdc322f,1,,,1,-,-,,---
+
+[Default Item Styles - Schema Solarized (light)]
+Annotation=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Attribute=ff2980b9,fffdbc4b,,,,,-,-,,---
+Built-in=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Comment Variable=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Constant=ff232627,fffcfcfc,1,,,,-,-,,---
+Control Flow=ff232627,fffcfcfc,1,,,,-,-,,---
+Documentation=ffda4453,ffda4453,,,,,-,-,,---
+Error=ffdc322f,ffdc322f,1,,,1,-,-,,---
+Extension=ff0095ff,fffcfcfc,1,,,,-,-,,---
+Import=ff7f8c8d,ffbdc3c7,,,,,-,-,,---
+Information=fff67400,fff67400,,,,,-,-,,---
+Operator=ff232627,fffcfcfc,,,,,-,-,,---
+Preprocessor=ff27ae60,ff27ae60,,,,,-,-,,---
+Special Character=ff3daee9,fffcfcfc,,,,,-,-,,---
+Special String=ffda4453,ffda4453,,,,,-,-,,---
+Variable=ff2980b9,fffdbc4b,,,,,-,-,,---
+Verbatim String=ffda4453,ffda4453,,,,,-,-,,---
+Warning=ffda4453,ffda4453,,,,,-,-,,---
+
+[Default Item Styles - Schema Vim (dark)]
+Error=ffffaa00,ffff5500,1,0,0,1,-,-,,---
+
+[Highlighting Bash - Schema Breeze Dark]
+Alerts:Alert Level 1=28,ffe85848,ffe85848,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 2=28,ffca9219,ffca9219,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 3=28,ff81ca2d,ff81ca2d,,,,,ff4d1f24,ff000000,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,ff2980b9,ff3daee9,,,,,ff153042,ff000000,,---
+Bash:Backquote=1,,,,,,,,,,---
+Bash:Builtin=6,ff7f8c8d,ffbdc3c7,,,,,,,,---
+Bash:Command=2,ff8e44ad,ffaf81ff,,,,,,,,---
+Bash:Comment=21,ff7a7c7d,ff808080,,,,,,,,---
+Bash:Control=1,,,,,,,,,,---
+Bash:Error=30,ffda4453,ffda4453,,,,,,,,---
+Bash:Escape=16,ff2980b9,fffdbc4b,,,,,,,,---
+Bash:Expression=29,ff27ae60,ff27ae60,,,,,,,,---
+Bash:Function=2,ff8e44ad,ffaf81ff,,,,,,,,---
+Bash:Keyword=1,,,,,,,,,,---
+Bash:Normal Text=0,,,,,,,,,,---
+Bash:Option=0,,,,,,,,,,---
+Bash:OtherCommand=7,ff0099ff,ffbdc3c7,,,,,,,,---
+Bash:Path=0,,,,,,,,,,---
+Bash:Redirection=5,,,,,,,,,,---
+Bash:String DoubleQ=12,fff44f4f,fff44f4f,,,,,,,,---
+Bash:String Escape=16,ff2980b9,fffdbc4b,,,,,,,,---
+Bash:String SingleQ=12,fff44f4f,fff44f4f,,,,,,,,---
+Bash:String Transl.=12,fff44f4f,fff44f4f,,,,,,,,---
+Bash:Variable=3,ff27aeae,ff27aeae,,,,,,,,---
+Modelines:Comment=21,ff7a7c7d,ff808080,,,,,,,,---
+Modelines:Keyword=23,ff3f8058,ff54aa75,,,,,,,,---
+Modelines:Number=17,fff67400,fff67400,,,,,,,,---
+Modelines:Option OFF=29,ff27ae60,ff27ae60,,,,,,,,---
+Modelines:Option ON=29,ff27ae60,ff27ae60,,,,,,,,---
+Modelines:String=12,fff44f4f,fff44f4f,,,,,,,,---
+Modelines:Value=29,ff27ae60,ff27ae60,,,,,,,,---
+Modelines:Variable=24,ff7f8c8d,ff94a3a4,,,,,,,,---
+
+[Highlighting Bash - Schema KDE]
+Alerts:Alert Level 1=28,fff2b6b1,fff2b6b1,,,,,ff451e1a,,,---
+Alerts:Alert Level 2=28,fffbc248,fffbc248,,,,,ff451e1a,,,---
+Alerts:Alert Level 3=28,ff9de44b,ff9de44b,,,,,,,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,,,,,,,,,,---
+Bash:Backquote=1,,,,,,,,,,---
+Bash:Builtin=6,,,,,,,,,,---
+Bash:Command=2,,,,,,,,,,---
+Bash:Comment=21,,,,,,,,,,---
+Bash:Control=1,,,,,,,,,,---
+Bash:Error=30,,,,,,,,,,---
+Bash:Escape=16,,,,,,,,,,---
+Bash:Expression=29,,,,,,,,,,---
+Bash:Function=2,,,,,,,,,,---
+Bash:Keyword=1,,,,,,,,,,---
+Bash:Normal Text=0,,,,,,,,,,---
+Bash:Option=0,,,,,,,,,,---
+Bash:OtherCommand=7,,,,,,,,,,---
+Bash:Path=0,,,,,,,,,,---
+Bash:Redirection=5,,,,,,,,,,---
+Bash:String DoubleQ=12,,,,,,,,,,---
+Bash:String Escape=16,,,,,,,,,,---
+Bash:String SingleQ=12,,,,,,,,,,---
+Bash:String Transl.=12,,,,,,,,,,---
+Bash:Variable=3,,,,,,,,,,---
+Modelines:Comment=21,,,,,,,,,,---
+Modelines:Keyword=23,,,,,,,,,,---
+Modelines:Number=17,,,,,,,,,,---
+Modelines:Option OFF=29,,,,,,,,,,---
+Modelines:Option ON=29,,,,,,,,,,---
+Modelines:String=12,,,,,,,,,,---
+Modelines:Value=29,,,,,,,,,,---
+Modelines:Variable=24,,,,,,,,,,---
+
+[Highlighting Bash - Schema Normal]
+Alerts:Alert Level 1=28,fff2b6b1,fff2b6b1,,,,,ff451e1a,,,---
+Alerts:Alert Level 2=28,fffbc248,fffbc248,,,,,ff451e1a,,,---
+Alerts:Alert Level 3=28,ff9de44b,ff9de44b,,,,,,,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,,,,,,,,,,---
+Bash:Backquote=1,,,,,,,,,,---
+Bash:Builtin=6,,,,,,,,,,---
+Bash:Command=2,,,,,,,,,,---
+Bash:Comment=21,,,,,,,,,,---
+Bash:Control=1,,,,,,,,,,---
+Bash:Error=30,,,,,,,,,,---
+Bash:Escape=16,,,,,,,,,,---
+Bash:Expression=29,,,,,,,,,,---
+Bash:Function=2,,,,,,,,,,---
+Bash:Keyword=1,,,,,,,,,,---
+Bash:Normal Text=0,,,,,,,,,,---
+Bash:Option=0,,,,,,,,,,---
+Bash:OtherCommand=7,,,,,,,,,,---
+Bash:Path=0,,,,,,,,,,---
+Bash:Redirection=5,,,,,,,,,,---
+Bash:String DoubleQ=12,,,,,,,,,,---
+Bash:String Escape=16,,,,,,,,,,---
+Bash:String SingleQ=12,,,,,,,,,,---
+Bash:String Transl.=12,,,,,,,,,,---
+Bash:Variable=3,,,,,,,,,,---
+Modelines:Comment=21,,,,,,,,,,---
+Modelines:Keyword=23,,,,,,,,,,---
+Modelines:Number=17,,,,,,,,,,---
+Modelines:Option OFF=29,,,,,,,,,,---
+Modelines:Option ON=29,,,,,,,,,,---
+Modelines:String=12,,,,,,,,,,---
+Modelines:Value=29,,,,,,,,,,---
+Modelines:Variable=24,,,,,,,,,,---
+
+[Highlighting Bash - Schema Printing]
+Alerts:Alert Level 1=28,fff2b6b1,fff2b6b1,,,,,ff451e1a,,,---
+Alerts:Alert Level 2=28,fffbc248,fffbc248,,,,,ff451e1a,,,---
+Alerts:Alert Level 3=28,ff9de44b,ff9de44b,,,,,,,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,,,,,,,,,,---
+Bash:Backquote=1,,,,,,,,,,---
+Bash:Builtin=6,,,,,,,,,,---
+Bash:Command=2,,,,,,,,,,---
+Bash:Comment=21,,,,,,,,,,---
+Bash:Control=1,,,,,,,,,,---
+Bash:Error=30,,,,,,,,,,---
+Bash:Escape=16,,,,,,,,,,---
+Bash:Expression=29,,,,,,,,,,---
+Bash:Function=2,,,,,,,,,,---
+Bash:Keyword=1,,,,,,,,,,---
+Bash:Normal Text=0,,,,,,,,,,---
+Bash:Option=0,,,,,,,,,,---
+Bash:OtherCommand=7,,,,,,,,,,---
+Bash:Path=0,,,,,,,,,,---
+Bash:Redirection=5,,,,,,,,,,---
+Bash:String DoubleQ=12,,,,,,,,,,---
+Bash:String Escape=16,,,,,,,,,,---
+Bash:String SingleQ=12,,,,,,,,,,---
+Bash:String Transl.=12,,,,,,,,,,---
+Bash:Variable=3,,,,,,,,,,---
+Modelines:Comment=21,,,,,,,,,,---
+Modelines:Keyword=23,,,,,,,,,,---
+Modelines:Number=17,,,,,,,,,,---
+Modelines:Option OFF=29,,,,,,,,,,---
+Modelines:Option ON=29,,,,,,,,,,---
+Modelines:String=12,,,,,,,,,,---
+Modelines:Value=29,,,,,,,,,,---
+Modelines:Variable=24,,,,,,,,,,---
+
+[Highlighting Bash - Schema Vim (dark)]
+Alerts:Alert Level 1=28,fff2b6b1,fff2b6b1,,,,,ff451e1a,,,---
+Alerts:Alert Level 2=28,fffbc248,fffbc248,,,,,ff451e1a,,,---
+Alerts:Alert Level 3=28,ff9de44b,ff9de44b,,,,,,,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,,,,,,,,,,---
+Bash:Backquote=1,,,,,,,,,,---
+Bash:Builtin=6,,,,,,,,,,---
+Bash:Command=2,,,,,,,,,,---
+Bash:Comment=21,,,,,,,,,,---
+Bash:Control=1,,,,,,,,,,---
+Bash:Error=30,,,,,,,,,,---
+Bash:Escape=16,,,,,,,,,,---
+Bash:Expression=29,,,,,,,,,,---
+Bash:Function=2,,,,,,,,,,---
+Bash:Keyword=1,,,,,,,,,,---
+Bash:Normal Text=0,,,,,,,,,,---
+Bash:Option=0,,,,,,,,,,---
+Bash:OtherCommand=7,,,,,,,,,,---
+Bash:Path=0,,,,,,,,,,---
+Bash:Redirection=5,,,,,,,,,,---
+Bash:String DoubleQ=12,,,,,,,,,,---
+Bash:String Escape=16,,,,,,,,,,---
+Bash:String SingleQ=12,,,,,,,,,,---
+Bash:String Transl.=12,,,,,,,,,,---
+Bash:Variable=3,,,,,,,,,,---
+Modelines:Comment=21,,,,,,,,,,---
+Modelines:Keyword=23,,,,,,,,,,---
+Modelines:Number=17,,,,,,,,,,---
+Modelines:Option OFF=29,,,,,,,,,,---
+Modelines:Option ON=29,,,,,,,,,,---
+Modelines:String=12,,,,,,,,,,---
+Modelines:Value=29,,,,,,,,,,---
+Modelines:Variable=24,,,,,,,,,,---
+
+[Highlighting CSS - Schema Breeze Dark]
+Alerts:Alert Level 1=28,ffe85848,ffe85848,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 2=28,ffca9219,ffca9219,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 3=28,ff81ca2d,ff81ca2d,,,,,ff4d1f24,ff000000,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,ff2980b9,ff3daee9,,,,,ff153042,ff000000,,---
+CSS:Annotation=9,ff2980b9,fffdbc4b,,,,,,,,---
+CSS:At Rule=15,ff27ae60,ff27ae60,,,,,,,,---
+CSS:Color=20,ff27aeae,ff27aeae,,,,,,,,---
+CSS:Comment=21,ff7a7c7d,ff808080,,,,,,,,---
+CSS:Error=30,ffda4453,ffda4453,,,,,,,,---
+CSS:Function=2,ff8e44ad,ffaf81ff,,,,,,,,---
+CSS:Keyword=1,,,,,,,,,,---
+CSS:Normal Text=0,,,,,,,,,,---
+CSS:Number=17,fff67400,fff67400,,,,,,,,---
+CSS:Operator=5,,,,,,,,,,---
+CSS:Property=1,,,,,,,,,,---
+CSS:Region Marker=25,ff2980b9,ff3daee9,,,,,ff153042,ff000000,,---
+CSS:Selector Attribute=7,ff0099ff,ffbdc3c7,,,,,,,,---
+CSS:Selector Class=2,ff8e44ad,ffaf81ff,,,,,,,,---
+CSS:Selector Id=8,ff27ae60,ff27ae60,1,,,,,,,---
+CSS:Selector Pseudo=26,ffc45b00,ffe46700,,1,,,,,,---
+CSS:Selector Tag=0,,,,,,,,,,---
+CSS:Separator Symbol=5,,,,,,,,,,---
+CSS:SpecialChar=11,ff3daee9,ff3daee9,,,,,,,,---
+CSS:String=12,fff44f4f,fff44f4f,,,,,,,,---
+CSS:Unit=16,ff2980b9,fffdbc4b,,,,,,,,---
+CSS:Unknown Property=0,,,,,,,,,,---
+CSS:Value=17,fff67400,fff67400,,,,,,,,---
+CSS:Value Keyword=6,ff7f8c8d,ffbdc3c7,,,,,,,,---
+CSS:Variable=3,ff27aeae,ff27aeae,,,,,,,,---
+
+[Highlighting CSS - Schema KDE]
+Alerts:Alert Level 1=28,ffe85848,ffe85848,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 2=28,ffca9219,ffca9219,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 3=28,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,,,,,,,,,,---
+CSS:Annotation=9,,,,,,,,,,---
+CSS:At Rule=15,,,,,,,,,,---
+CSS:Color=20,,,,,,,,,,---
+CSS:Comment=21,,,,,,,,,,---
+CSS:Error=30,,,,,,,,,,---
+CSS:Function=2,,,,,,,,,,---
+CSS:Keyword=1,,,,,,,,,,---
+CSS:Normal Text=0,,,,,,,,,,---
+CSS:Number=17,,,,,,,,,,---
+CSS:Operator=5,,,,,,,,,,---
+CSS:Property=1,,,,,,,,,,---
+CSS:Region Marker=25,,,,,,,,,,---
+CSS:Selector Attribute=7,,,,,,,,,,---
+CSS:Selector Class=2,,,,,,,,,,---
+CSS:Selector Id=8,,,1,,,,,,,---
+CSS:Selector Pseudo=26,,,,1,,,,,,---
+CSS:Selector Tag=0,,,,,,,,,,---
+CSS:Separator Symbol=5,,,,,,,,,,---
+CSS:SpecialChar=11,,,,,,,,,,---
+CSS:String=12,,,,,,,,,,---
+CSS:Unit=16,,,,,,,,,,---
+CSS:Unknown Property=0,,,,,,,,,,---
+CSS:Value=17,,,,,,,,,,---
+CSS:Value Keyword=6,,,,,,,,,,---
+CSS:Variable=3,,,,,,,,,,---
+
+[Highlighting CSS - Schema Solarized (dark)]
+Alerts:Alert Level 1=28,ffe85848,ffe85848,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 2=28,ffca9219,ffca9219,,,,,ff451e1a,ff000000,,---
+Alerts:Alert Level 3=28,ff81ca2d,ff81ca2d,,,,,,,,---
+Alerts:Normal Text=0,,,,,,,,,,---
+Alerts:Region Marker=25,ff268bd2,ff268bd2,,,,,ff073642,ff000000,,---
+CSS:Annotation=9,ff268bd2,ff268bd2,,,,,,,,---
+CSS:At Rule=15,ff2aa198,ff2aa198,,,,,,,,---
+CSS:Color=20,ff2aa198,ff2aa198,,,,,,,,---
+CSS:Comment=21,ff586e75,ff93a1a1,,,,,,,,---
+CSS:Error=30,ffdc322f,ffdc322f,,,,,,,,---
+CSS:Function=2,ff268bd2,ff268bd2,,,,,,,,---
+CSS:Keyword=1,ff859900,ff859900,,,,,,,,---
+CSS:Normal Text=0,,,,,,,,,,---
+CSS:Number=17,ff2aa198,ff2aa198,,,,,,,,---
+CSS:Operator=5,ff859900,ff859900,,,,,,,,---
+CSS:Property=1,ff859900,ff859900,,,,,,,,---
+CSS:Region Marker=25,ff268bd2,ff268bd2,,,,,ff073642,ff000000,,---
+CSS:Selector Attribute=7,ff268bd2,ff268bd2,,,,,,,,---
+CSS:Selector Class=2,ff268bd2,ff268bd2,,,,,,,,---
+CSS:Selector Id=8,ffcb4b16,ffcb4b16,1,,,,,,,---
+CSS:Selector Pseudo=26,ffb58900,ffb58900,,1,,,,,,---
+CSS:Selector Tag=0,,,,,,,,,,---
+CSS:Separator Symbol=5,ff859900,ff859900,,,,,,,,---
+CSS:SpecialChar=11,ffdc322f,ffdc322f,,,,,,,,---
+CSS:String=12,ff2aa198,ff2aa198,,,,,,,,---
+CSS:Unit=16,ffb58900,ffb58900,,,,,,,,---
+CSS:Unknown Property=0,,,,,,,,,,---
+CSS:Value=17,ff2aa198,ff2aa198,,,,,,,,---
+CSS:Value Keyword=6,ffcb4b16,ffcb4b16,,,,,,,,---
+CSS:Variable=3,ff268bd2,ff268bd2,,,,,,,,---
+
+[Highlighting None - Schema Breeze Dark]
+None:Normal=0,,,,,,,,,,---
+Normal Text=0,,,,,,,,,,---
+
+[Highlighting None - Schema KDE]
+None:Normal=0,,,,,,,,,,---
+Normal Text=0,,,,,,,,,,---
+
+[Highlighting None - Schema Normal]
+None:Normal=0,,,,,,,,,,---
+Normal Text=0,,,,,,,,,,---
+
+[Highlighting None - Schema Printing]
+None:Normal=0,,,,,,,,,,---
+Normal Text=0,,,,,,,,,,---
+
+[Highlighting None - Schema Solarized (dark)]
+None:Normal=0,,,,,,,,,,---
+
+[Highlighting None - Schema Solarized (light)]
+None:Normal=0,,,,,,,,,,---
+Normal Text=0,,,,,,,,,,---
+
+[Highlighting None - Schema Vim (dark)]
+None:Normal=0,,,,,,,,,,---
+Normal Text=0,,,,,,,,,,---

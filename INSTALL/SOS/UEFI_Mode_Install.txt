@@ -1,0 +1,6 @@
+#Mainboard -> Pure UEFI Mode, Not Legacy Mode (BIOS + MBR)
+#Boot Into EFI Mode (UEFI + GPT) Live / Graphic Install
+#Install
+
+
+

@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Desktop Overview Shortcut
+Exec=qdbus org.kde.kglobalaccel /component/kwin invokeShortcut 'Overview'
+Icon=desktop_overview_
+Type=Application
+OnlyShowIn=KDE;
+StartupNotify=false

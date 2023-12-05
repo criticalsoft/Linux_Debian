@@ -1,0 +1,193 @@
+[Kate Plugins]
+cmaketoolsplugin=false
+compilerexplorer=false
+externaltoolsplugin=true
+katebacktracebrowserplugin=false
+katebuildplugin=false
+katecloseexceptplugin=true
+katecolorpickerplugin=false
+katectagsplugin=false
+katefilebrowserplugin=true
+katefiletreeplugin=true
+kategdbplugin=false
+kategitblameplugin=false
+katekonsoleplugin=true
+kateprojectplugin=true
+katereplicodeplugin=false
+katesearchplugin=true
+katesnippetsplugin=true
+katesqlplugin=false
+katesymbolviewerplugin=false
+katexmlcheckplugin=false
+katexmltoolsplugin=false
+keyboardmacrosplugin=false
+ktexteditorpreviewplugin=true
+latexcompletionplugin=false
+lspclientplugin=false
+rainbowparens=false
+tabswitcherplugin=true
+textfilterplugin=true
+
+[MainWindow0]
+Active ViewSpace=0
+DisplayPort-2 DisplayPort-3=DisplayPort-2
+DisplayPort-2 DisplayPort-3 Height 3440x1440 DisplayPort-2=1211
+DisplayPort-2 DisplayPort-3 Width 3440x1440 DisplayPort-2=1367
+DisplayPort-2 DisplayPort-3 XPosition 3440x1440 DisplayPort-2=1378
+DisplayPort-2 DisplayPort-3 YPosition 3440x1440 DisplayPort-2=185
+Kate-MDI-H-Splitter=0,1275,0
+Kate-MDI-Sidebar-0-Bar-0-TvList=kate_private_plugin_katefiletreeplugin,kateproject,kateprojectgit,kate_private_plugin_katefileselectorplugin
+Kate-MDI-Sidebar-0-LastSize=268
+Kate-MDI-Sidebar-0-SectSizes=0
+Kate-MDI-Sidebar-0-Splitter=1128
+Kate-MDI-Sidebar-1-Bar-0-TvList=kate_private_plugin_katesnippetsplugin,ktexteditorpreviewplugin
+Kate-MDI-Sidebar-1-LastSize=160
+Kate-MDI-Sidebar-1-SectSizes=0
+Kate-MDI-Sidebar-1-Splitter=1128
+Kate-MDI-Sidebar-2-Bar-0-TvList=
+Kate-MDI-Sidebar-2-LastSize=160
+Kate-MDI-Sidebar-2-SectSizes=0
+Kate-MDI-Sidebar-2-Splitter=1275
+Kate-MDI-Sidebar-3-Bar-0-TvList=output,kate_plugin_katesearch,kateprojectinfo,kate_private_plugin_katekonsoleplugin
+Kate-MDI-Sidebar-3-LastSize=240
+Kate-MDI-Sidebar-3-SectSizes=0
+Kate-MDI-Sidebar-3-Splitter=676
+Kate-MDI-Sidebar-Style=2
+Kate-MDI-Sidebar-Visible=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Position=3
+Kate-MDI-ToolView-kate_plugin_katesearch-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_plugin_katesearch-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_private_plugin_katefileselectorplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Position=0
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_private_plugin_katefiletreeplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Position=3
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_private_plugin_katekonsoleplugin-Visible=false
+Kate-MDI-ToolView-kate_private_plugin_katesnippetsplugin-Position=1
+Kate-MDI-ToolView-kate_private_plugin_katesnippetsplugin-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kate_private_plugin_katesnippetsplugin-Visible=false
+Kate-MDI-ToolView-kateproject-Position=0
+Kate-MDI-ToolView-kateproject-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kateproject-Visible=false
+Kate-MDI-ToolView-kateprojectgit-Position=0
+Kate-MDI-ToolView-kateprojectgit-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kateprojectgit-Visible=false
+Kate-MDI-ToolView-kateprojectinfo-Position=3
+Kate-MDI-ToolView-kateprojectinfo-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-kateprojectinfo-Visible=false
+Kate-MDI-ToolView-ktexteditorpreviewplugin-Position=1
+Kate-MDI-ToolView-ktexteditorpreviewplugin-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-ktexteditorpreviewplugin-Visible=false
+Kate-MDI-ToolView-output-Position=3
+Kate-MDI-ToolView-output-Show-Button-In-Sidebar=true
+Kate-MDI-ToolView-output-Visible=false
+Kate-MDI-V-Splitter=0,1128,0
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVcAAASRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIC/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[MainWindow0][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[MainWindow0 Settings]
+DisplayPort-2 DisplayPort-3=DisplayPort-2
+DisplayPort-2 DisplayPort-3 Height 3440x1440 DisplayPort-2=1211
+DisplayPort-2 DisplayPort-3 Width 3440x1440 DisplayPort-2=1367
+DisplayPort-2 DisplayPort-3 XPosition 3440x1440 DisplayPort-2=1378
+DisplayPort-2 DisplayPort-3 YPosition 3440x1440 DisplayPort-2=185
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVcAAASRAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAGABoAGEAbQBiAHUAcgBnAGUAcgBCAGEAcgEAAAIC/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+WindowState=0
+
+[MainWindow0 Settings][Toolbar mainToolBar]
+ToolButtonStyle=IconOnly
+
+[MainWindow0-Splitter 0]
+Children=MainWindow0-ViewSpace 0
+Orientation=2
+Sizes=1128
+
+[MainWindow0-ViewSpace 0]
+Count=0
+Documents=
+
+[Open Documents]
+Count=0
+
+[Open MainWindows]
+Count=1
+
+[Plugin:katecloseexceptplugin:][menu]
+ShowConfirmation=false
+
+[Plugin:katefilebrowserplugin:MainWindow:0]
+Allow Expansion=false
+Decoration position=2
+Show Inline Previews=true
+Show Preview=false
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+View Style=DetailTree
+auto sync folder=true
+filter history=
+highlight current file=true
+location=file:///media/me/SOFT/DESKTOP/
+
+[Plugin:kateprojectplugin:]
+projects=
+
+[Plugin:katesearchplugin:MainWindow:0]
+BinaryFiles=false
+CurrentExcludeFilter=0
+CurrentFilter=0
+ExcludeFilters=\\0
+ExpandSearchResults=false
+Filters=*
+FollowSymLink=false
+HiddenFiles=false
+MatchCase=false
+Place=0
+Recursive=true
+Replaces=
+Search=sdfsdf
+SearchAsYouTypeAllProjects=true
+SearchAsYouTypeCurrentFile=true
+SearchAsYouTypeFolder=true
+SearchAsYouTypeOpenFiles=true
+SearchAsYouTypeProject=true
+SearchDiskFiles=/home/me/.config/i3
+SearchDiskFiless=\\0
+UseRegExp=false
+
+[Plugin:ktexteditorpreviewplugin:MainWindow:0]
+automaticUpdate=false
+documentLocked=false
+
+[Recent Files]
+File1[$e]=/media/me/SOFT/System/Linux_Debian/4_Theme/QT/Kvantum_Theme/KvArc_Dark_Glass_50/KvArc_Glass_Dark.kvconfig
+File10[$e]=/media/me/SOFT/DESKTOP/desktop.ini
+File2[$e]=/media/me/SOFT/System/Linux_Debian/4_Theme/QT/Install.sh
+File3[$e]=$HOME/.config/Kvantum/KvArc_Light_Glass_80/KvArc_Light_Glass_80.kvconfig
+File4[$e]=/media/me/SOFT/System/Linux_Debian/4_Theme/QT/Kvantum_Theme/KvArc_Dark_Glass_80/KvArc_Dark_Glass_80.kvconfig
+File5[$e]=/media/me/SOFT/System/Linux_Debian/4_Theme/QT/Kvantum_Theme/KvArc_Light_Glass_80/KvArc_Light_Glass_80.kvconfig
+File6[$e]=/media/me/SOFT/System/Linux_Debian/6_Text_Browser/Falkon/THEME/Install.sh
+File7[$e]=/media/me/SOFT/System/Linux_Debian/4_Theme/QT/Kvantum_Theme/KvArc_Dark_Glass_00/KvArc_Dark_Glass_00.kvconfig
+File8[$e]=/media/me/SOFT/System/Linux_Debian/4_Theme/QT/Kvantum_Theme/KvArc_Dark_Glass_50/KvArc_Dark_Glass_50.kvconfig
+File9[$e]=/media/me/SOFT/System/Linux_Debian/4_Theme/QT/Kvantum_Theme/KvArc_Light_Glass_50/KvArc_Light_Glass_50.kvconfig
+Name1[$e]=KvArc_Glass_Dark.kvconfig
+Name10[$e]=desktop.ini
+Name2[$e]=Install.sh
+Name3[$e]=KvArc_Light_Glass_80.kvconfig
+Name4[$e]=KvArc_Dark_Glass_80.kvconfig
+Name5[$e]=KvArc_Light_Glass_80.kvconfig
+Name6[$e]=Install.sh
+Name7[$e]=KvArc_Dark_Glass_00.kvconfig
+Name8[$e]=KvArc_Dark_Glass_50.kvconfig
+Name9[$e]=KvArc_Light_Glass_50.kvconfig

@@ -1,0 +1,4 @@
+lutris --install ./itunes-*.json
+
+
+

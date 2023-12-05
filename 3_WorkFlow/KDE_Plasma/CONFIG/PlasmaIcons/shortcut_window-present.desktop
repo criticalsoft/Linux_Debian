@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Window Present Shortcut
+Exec=qdbus org.kde.kglobalaccel /component/kwin invokeShortcut 'Expose'
+Icon=window_present_
+Type=Application
+OnlyShowIn=KDE;
+StartupNotify=false

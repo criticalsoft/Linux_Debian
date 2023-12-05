@@ -1,0 +1,40 @@
+[FileDialogSize]
+Height 1440=1059
+Width 3440=1740
+
+[General]
+copyImageToClipboard=false
+copySaveLocation=false
+default-save-image-format=png
+default-save-location[$e]=file:$HOME/Desktop/
+lastSaveAsFile=file:///media/alex/TOOL/Linux_Debian/5_File_Shell/Dolphin/FIX_FireFox CanNot Open _desktop File.png
+lastSaveFile=file:///home/alex/Desktop/Screenshot_20200509_224814.png
+save-filename-format=Screenshot_%Y%M%D_%H%m%S
+
+[GuiConfig]
+alwaysRememberRegion=false
+captureMode=2
+captureModeIndex=1
+compressionQuality=90
+cropRegion=0,0,0,0
+lastUsedSaveMode=0
+onClickChecked=true
+printKeyActionRunning=0
+quitAfterSaveCopyExport=true
+rememberLastRectangularRegion=true
+showMagnifier=false
+useLightMaskColour=false
+useReleaseToCapture=false
+window-position=1718,552
+
+[KFileDialog Settings]
+Recent Files[$e]=FIX_Keyboard ShortCut Not Working.png,file:$HOME/Desktop/Screenshot_20200630_043525.png
+Recent URLs[$e]=file:$HOME/Pictures/
+listViewIconSize=100
+
+[Save]
+compressionQuality=99
+copySaveLocation=false
+defaultSaveLocation=file:///home/alex/Desktop
+lastSaveAsLocation=file:///home/alex/Desktop/Screenshot_20200630_043525.png
+lastSaveLocation=file:///home/alex/Desktop/Screenshot_20200630_043544.png
